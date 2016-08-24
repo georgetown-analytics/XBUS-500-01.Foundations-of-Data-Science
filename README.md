@@ -50,7 +50,13 @@ Jupyter is available through your package installer- i.e. ```pip install jupyter
 
 ### Python Packages
 
-This section is for Windows users. As noted above, Anaconda takes care of compiler dependencies for common packages. There is one other "gotcha" we have encountered. You need to install scipy with conda (**DO NOT** use pip) and before you install seaborn. It is recommended to do this while setting up Anaconda so you are ready to go when the time comes. Execute the following command:<br />
+As we have seen above, packages can be installed via the use of a package manager like pip, conda, or homebrew.
+
+One item you will encounter as we go through labs is the "requirements.txt" file. This file will list the packages required for the lab and can also be used by pip to install packages. To install packages with a requirements file, you use the following command:
+
+```pip install -r requirements.txt```
+
+***This section is for Windows users.*** As noted above, Anaconda takes care of compiler dependencies for common packages. There is one other "gotcha" we have encountered. You need to install scipy with conda (**DO NOT** use pip) and before you install seaborn. It is recommended to do this while setting up Anaconda so you are ready to go when the time comes. Execute the following command:<br />
 ```conda install scipy```<br />
 
 ## Lab Workflow
