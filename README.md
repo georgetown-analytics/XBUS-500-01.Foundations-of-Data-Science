@@ -83,7 +83,6 @@ Perform a directory listing. You should now see a directory called "XBUS-500-01.
 
 If you do a directory listing now, you should see the following items:
 
-	.git
 	.gitignore
 	LICENSE
 	README.md
