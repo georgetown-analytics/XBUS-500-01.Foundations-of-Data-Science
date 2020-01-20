@@ -1,0 +1,1038 @@
+Title	Author	Recommender	Source	Amazon_Link	Description	Type	Genre	Length	Publish_Year	On_List	Review_Excerpt
+1984	George Orwell	Paul Coelho	http://theweek.com/articles/514936/best-books--chosen-by-paulo-coelho	http://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934							
+1984	George Orwell	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker	http://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934							
+The Accidental Superpower	Peter Zeihan	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Accidental-Superpower-Generation-American-Preeminence/dp/1455583669							
+Act of Congress	Robert Kaiser	Lawrence Lessig	https://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim/recommendations	http://www.amazon.com/Act-Congress-Americas-Essential-Institution/dp/0307744515							
+Age of Ambition: Chasing Fortune, Truth, and Faith in the New China	Evan Osnos	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Age-Ambition-Chasing-Fortune-Truth/dp/0374535272							
+The Alchemist	Paul Coelho	Malala Yousafzai	http://paulocoelhoblog.com/2013/09/03/malala-and-the-alchemist/	http://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416							
+The Alliance: Managing Talent in the Networked Age	Reid Hoffman	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1483014622							
+America in Retreat	Bret Stephens	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/America-Retreat-Isolationism-Coming-Disorder/dp/1591846625							
+The Anatomy of Human Destructiveness	Erich Fromm	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Anatomy-Human-Destructiveness-Erich-Fromm/dp/080501604X							
+The Archaic Revival	Terence McKenna	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Archaic-Revival-Speculations-Psychedelic-Mushrooms/dp/0062506137							
+Art and Illusion	Ernst Gombrich	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Art-Illusion-Psychology-Pictorial-Representation/dp/0691070008							
+The Art of Meditation	Joel S. Goldsmith	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Art-Meditation-Joel-S-Goldsmith/dp/0062503790							
+The Art of the Novel	Milan Kundera	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Art-Novel-Perennial-Classics/dp/0060093749							
+The Astonishing Hypothesis: The Scientific Search for the Soul	Francis Crick	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Astonishing-Hypothesis-Scientific-Search-Soul/dp/0684801582							
+From Science to God	Peter Russell	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Atomic-Bazaar-Dispatches-Underground-Trafficking/dp/0374531323							
+The Atomic Bazaar	William Langewiesche	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Atomic-Bazaar-Dispatches-Underground-Trafficking/dp/0374531323							
+Autonomous Technology – Technics-Out-of-Control as a Theme in Political Thought	Langdon Winner	Evgeny Morozov	http://fivebooks.com/interview/evgeny-morozov-on-philosophy-of-technology/	http://www.amazon.com/Autonomous-Technology-Technics-out-Control-Political/dp/0262730499							
+Awareness	Anthony De Mello	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373							
+Barchester Towers 	Anthony Trollope	Steven Weinberg	http://www.americanscientist.org/bookshelf/pub/scientists-nightstand-steven-weinberg	http://www.amazon.com/Barchester-Towers-Barnes-Noble-Classics/dp/1593083378							
+The Baron in the Trees	Italo Calvino	Ayaan Hirsi Ali	http://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html	http://www.amazon.com/Baron-Trees-Italo-Calvino/dp/0156106809							
+Bartleby, the Scrivener	Herman Melville	Azar Nfisi	http://theweek.com/articles/442637/azar-nafisis-6-favorite-books	http://www.amazon.com/Bartleby-Scrivener-Blazers-Herman-Melville/dp/0895986833							
+A Beautiful Question: Finding Nature’s Deep Design	Frank Wilczek	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/Beautiful-Question-Finding-Natures-Design/dp/1594205264							
+Before the Dawn	Nicholas Wade	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Before-Dawn-Recovering-History-Ancestors/dp/014303832X							
+Beloved	Toni Morrison	Cornel West	https://andrewcarley.com/2016/01/25/cornel-west-buchempfehlungen/	http://www.amazon.com/Beloved-Toni-Morrison/dp/1400033411							
+Benjamin Franklin	Walter Isaacson	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X							
+The Bhagavad Gita	Jack Hawley	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Bhagavad-Gita-Walkthrough-Westerners/dp/B006ZIDKO4							
+Birth of a Theorem	Cedric Villani	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Birth-Theorem-Mathematical-C%C3%A9dric-Villani/dp/0865477671							
+Black Holes and Time Warps	Kip S. Thorne	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Black-Holes-Time-Warps-Commonwealth/dp/0393312763							
+The Blind Owl	Sadegh Hedayat	Reza Aslan	http://theweek.com/articles/486563/reza-aslans-5-favorite-books	http://www.amazon.com/Blind-Owl-Sadegh-Hedayat/dp/0802144284							
+The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design	Richard Dawkins	Steven Pinker	http://thebooksproject.co/steven-pinker/	http://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393315703							
+The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design	Richard Dawkins	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393315703							
+The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design	Richard Dawkins	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393315703							
+Bloodlands: Europe Between Hitler and Stalin	Timothy Snyder	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Bloodlands-Europe-Between-Hitler-Stalin/dp/0465031471							
+The Bodhisattva’s Brain: Buddhism Naturalized	Owen Flanagan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Bodhisattvas-Brain-Buddhism-Naturalized-Press/dp/0262525208							
+The Bonobo and the Atheist: In Search of Humanism Among the Primates	Frans de Waal	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/Bonobo-Atheist-Search-Humanism-Primates/dp/0393347796							
+Brain Bugs	Dean Buonomano	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Brain-Bugs-Brains-Flaws-Shape/dp/0393342220							
+Brecht on Theatre: The Development of an Aesthetic	Bertolt Brecht	Douglas Rushkoff	http://www.blackbirdinc.com/recommendations/84-book-recommendations-from-douglas-rushkoff.html	http://www.amazon.com/Brecht-Theatre-Development-Aesthetic-Bertolt/dp/0809005425							
+A Brief History of Time	Stephen Hawking	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168							
+Brothers Karamazov	Fyodor Dostoevsky	Haruki Murakami	https://www.facebook.com/harukimurakamiauthor/posts/627318983962162	http://www.amazon.com/Brothers-Karamazov-Fyodor-Dostoevsky/dp/0374528373							
+Bull!	Maggie Mahar	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Bull-History-Boom-Bust-1982-2004/dp/0060564148							
+Bull by the Horns	Sheila Bair	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Bull-Horns-Fighting-Street-Itself/dp/1451672497							
+Capital	Karl Marx	Douglas Rushkoff	http://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas	http://www.amazon.com/Capital-Karl-Marx/dp/157002071X							
+Capitol Punishment	Jack Abramoff	Lawrence Lessig	https://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim/recommendations	http://www.amazon.com/Capitol-Punishment-Washington-Corruption-Notorious/dp/1936488442							
+The Case for Israel	Alan Dershowitz	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Case-Israel-Alan-Dershowitz/dp/0471679526							
+The Castle	Franz Kafka	Haruki Murakami	http://favobooks.com/writers/89-good-books-to-read.html	http://www.amazon.com/Castle-Franz-Kafka/dp/0805211063							
+The Catcher in the Rye	JD Salinger	Haruki Murakami	http://favobooks.com/writers/89-good-books-to-read.html	http://www.amazon.com/Catcher-Rye-J-D-Salinger/dp/0316769487							
+Catherine the Great	Robert K. Massie	Elon Musk	http://www.inc.com/geoffrey-james/9-powerful-books-elon-musk-recommends.html	http://www.amazon.com/Catherine-Great-Portrait-Robert-Massie/dp/0345408772							
+Causality: Models, Reasoning, and Inference	Judea Pearl	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/0521773628							
+This Time Is Different	Carmen Reinhart	Dambisa Moyo	http://theweek.com/articles/486770/dambisa-moyos-6-favorite-books	http://www.amazon.com/Century-Violence-Soviet-Russia/dp/0300103220							
+A Century of Violence in Soviet Russia	Alexander N. Yakovlev	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Century-Violence-Soviet-Russia/dp/0300103220							
+Child of the Jungle	Sabine Kuegler	Jared Diamond	https://www.goodreads.com/interviews/show/835.Jared_Diamond	http://www.amazon.com/Child-Jungle-Caught-Between-Worlds/dp/B001QFY2L6							
+Civilization and Its Discontents	Sigmund Freud	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Civilization-Discontents-Complete-Psychological-Sigmund/dp/0393304515							
+Civilization and Its Discontents	Sigmund Freud	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Civilization-Discontents-Complete-Psychological-Sigmund/dp/0393304515							
+Civilization	Niall Ferguson	Fareed Zakaria	http://theweek.com/articles/463752/fareed-zakarias-6-favorite-books	http://www.amazon.com/Civilization-West-Rest-Niall-Ferguson/dp/0143122061							
+Civilization	Niall Ferguson	Dambisa Moyo	http://theweek.com/articles/486770/dambisa-moyos-6-favorite-books	http://www.amazon.com/Civilization-West-Rest-Niall-Ferguson/dp/0143122061							
+Clear Light of Day	Anita Desai	Salman Rushdie	https://christinarosendahl.wordpress.com/2012/06/30/book-recommendations-from-salman-rushdie/	http://www.amazon.com/Clear-Light-Day-Anita-Desai/dp/0618074511							
+The Collapse: The Accidental Opening of the Berlin Wall	Mary Elise Sarotte	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Collapse-Accidental-Opening-Berlin-Wall/dp/0465064949							
+Collected Poems	W H Auden	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Collected-Poems-Auden-W-H/dp/0679731970							
+Collected Poems	Philip Larkin	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Collected-Poems-Philip-Larkin/dp/0374529205							
+Colonial Fantasies	Meyda Yegenoglu	Elif Shafak	http://fivebooks.com/interview/elif-shafak-on-turkey/	http://www.amazon.com/Colonial-Fantasies-Feminist-Orientalism-Cambridge/dp/0521626587							
+The Steps Across the Water	Adam Gopnik	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Colonial-Fantasies-Feminist-Orientalism-Cambridge/dp/0521626587							
+The Common Reader	Virginia Woolf	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Common-Reader-First-Annotated/dp/015602778X							
+The Company of Strangers	Paul Seabright	Daniel Dennett	http://thebooksproject.co/daniel-dennett/	http://www.amazon.com/Company-Strangers-Natural-History-Economic/dp/0691146462							
+The Complete Works	Michel de Montaigne	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Complete-Works-Everymans-Library/dp/1400040213							
+The Concept of Mind	Gilbert Ryle	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Concept-Mind-Gilbert-Ryle/dp/0226732967							
+Conditions of Love: The Philosophy of Intimacy	John Armstrong	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Conditions-Love-Philosophy-John-Armstrong/dp/0393331733	‘What is it to love another person?’ This is to raise one of the deepest, and most puzzling, questions we can put to ourselves. Love is a central theme in the autobiography we each write as we try to understand our lives; but we may feel that we become only more confused the more we reflect upon it. 			176	2003	FALSE	The question Armstrong sets himself is, What makes it possible for people to love each other, over the long haul, in satisfying ways? "Falling in love" rarely lasts, as we all know-the heat of early romance fades when faced with broader realities. Armstrong points out that modeling love on this transient incandescence means we simply cannot understand how to love-when we try to see enduring love as some sort of dilute form of romantic intoxication, we are trying to make it something it is not.
+The Confessions	Jean Jacques Rousseau	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Confessions-Wordsworth-Classics-World-Literature/dp/1853264652							
+The Confidence Trap	David Runciman	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Confidence-Trap-History-Democracy-Present/dp/0691165831							
+The Conquest of Happiness	Bertrand Russell	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Conquest-Happiness-Bertrand-Russell/dp/087140673X							
+Consciousness Explained	Daniel Dennett	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661							
+Consciousness	Susan Blackmore	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Consciousness-Introduction-Susan-Blackmore/dp/144410487X							
+Constantine’s Sword: The Church and the Jews—A History	James Carroll	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Constantines-Sword-Church-Jews-History/dp/0618219080							
+Cortex and Mind: Unifying Cognition	Joaquin Fuster	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Cortex-Mind-Cognition-Joaquin-Fuster/dp/019530084X							
+Crazy Is a Compliment	Linda Rottenberg	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Crazy-Compliment-Power-Zigging-Everyone/dp/1591846641							
+Creating Innovators: The Making of Young People Who Will Change the World	Tony Wagner	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Creating-Innovators-Making-People-Change/dp/1451611498							
+Creation: How Science is Reinventing Life Itself	Adam Rutherford	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/Creation-Science-Reinventing-Life-Itself/dp/1617230111							
+Creation: How Science is Reinventing Life Itself	Adam Rutherford	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Creation-Science-Reinventing-Life-Itself/dp/1617230111							
+Cuckoo	Nick Davies	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html	http://www.amazon.com/Cuckoo-Cheating-Nature-Nick-Davies/dp/1620409526							
+So Damn Much Money	Robert Kaiser	Lawrence Lessig	https://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim/recommendations	http://www.amazon.com/Damn-Much-Money-Corrosion-Government/dp/0307385884							
+Dark Universe	Daniel Galouye	Richard Dawkins	http://theweek.com/articles/459238/richard-dawkins-5-favorite-books	http://www.amazon.com/Dark-Universe-Daniel-F-Galouye/dp/0575071370							
+Days of Reading	Marcel Proust	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Days-Reading-Penguin-Great-Ideas/dp/0141042532							
+Deadly Feasts	Richard Rhodes	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Deadly-Feasts-Controversy-Publics-Health/dp/0684844257							
+The Death of Ivan Illych	Leo Tolstoy	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Death-Ivan-Ilyich-Leo-Tolstoy/dp/1451582544							
+The Death of the Moth	Virginia Woolf	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Death-Moth-Other-Essays/dp/0156252341							
+Debt: The First 5,000 Years	David Graeber	Douglas Rushkoff	http://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas	http://www.amazon.com/Debt-First-5-000-Years/dp/1612191290							
+Destructive Emotions	Daniel Goleman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Destructive-Emotions-Scientific-Dialogue-Dalai/dp/0553381059							
+DMT: The Spirit Molecule	Rick Strassman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/DMT-Molecule-Revolutionary-Near-Death-Experiences/dp/0892819278							
+The Doctrine of Deification	Norman Russell	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Doctrine-Deification-Patristic-Tradition-Christian/dp/0199205973							
+The Double Helix	James Watson	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html	http://www.amazon.com/Double-Helix-James-Watson/dp/075382843X							
+The Double Helix	James Watson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Double-Helix-James-Watson/dp/075382843X							
+The Effective Executive	Peter Drucker	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/	http://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459							
+Einstein	Walter Isaacson	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson/dp/1442348062							
+The Elegant Universe	Brian Greene	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Elegant-Universe-Superstrings-Dimensions-Ultimate/dp/039333810X							
+The Elegant Universe	Brian Greene	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader	http://www.amazon.com/Elegant-Universe-Superstrings-Dimensions-Ultimate/dp/039333810X							
+Empire	Niall Ferguson	Ayaan Hirsi Ali	http://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html	http://www.amazon.com/Empire-Britain-Made-Modern-World/dp/0141007540							
+The End of History and the Last Man	Francis Fukuyama	Fareed Zakaria	http://theweek.com/articles/463752/fareed-zakarias-6-favorite-books	http://www.amazon.com/End-History-Last-Man/dp/0743284550							
+The End of the World	John Leslie	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/End-World-Science-Ethics-Extinction/dp/0415184479							
+Enduring Love	Ian McEwan	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker	http://www.amazon.com/Enduring-Love-Novel-Ian-McEwan/dp/0385494149							
+Confession of a Buddhist Atheist	Stephen Batchelor	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Enduring-Love-Novel-Ian-McEwan/dp/0385494149							
+An Enquiry Concerning Human Understanding	David Hume	Paul Krugman	https://mostlyeconomics.wordpress.com/2011/07/21/krugmans-reading-list/	http://www.amazon.com/Enquiry-Concerning-Human-Understanding/dp/193604191X							
+An Enquiry Concerning Human Understanding	David Hume	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Enquiry-Concerning-Human-Understanding/dp/193604191X							
+Essays in Economics	James Tobin	Paul Krugman	https://mostlyeconomics.wordpress.com/2011/07/21/krugmans-reading-list/	http://www.amazon.com/Essays-Economics-Macroeconomics-MIT-Press/dp/0262514559							
+Essays in Persuasion	JM Keynes	Paul Krugman	https://mostlyeconomics.wordpress.com/2011/07/21/krugmans-reading-list/	http://www.amazon.com/Essays-Persuasion-John-Maynard-Keynes/dp/1441492267							
+Ethics	JL Mackie	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Ethics-Inventing-J-L-Mackie/dp/0140135588							
+Ethics and the Limits of Philosophy 	Bernard Williams	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Ethics-Limits-Philosophy-Routledge-Classics/dp/0415610141							
+On the Eve of the Millenium	Conor Cruise O'Brien	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Eve-Millenium-Democracy-Through-Unreason/dp/0028740947							
+Explaining Social Behavior	Jon Elster	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Explaining-Social-Behavior-Bolts-Sciences/dp/0521777445							
+Consilience	EO Wilson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Explaining-Social-Behavior-Bolts-Sciences/dp/0521777445							
+The Fabric of Reality: The Science of Parallel Universes and Its Implications	David Deutsch	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X							
+The Fall: The Insanity of the Ego in Human History and the Dawning of A New Era	Steve Taylor	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Fall-Insanity-Human-History-Dawning/dp/1905047207							
+The Feeling of What Happens	Antonio Damasio	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Feeling-What-Happens-Emotion-Consciousness/dp/0156010755							
+Ficciones	Jorge Luis Borges	Paul Coelho	http://theweek.com/articles/514936/best-books--chosen-by-paulo-coelho	http://www.amazon.com/Ficciones-Jorge-Luis-Borges/dp/0802130305							
+Fighting the Ideological War	Patrick Sookhdeo	Ayaan Hirsi Ali	http://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html	http://www.amazon.com/Fighting-Ideological-War-Strategies-Communism/dp/0985310901							
+The Filter Bubble: What the Internet is Hiding from You	Eli Pariser	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Filter-Bubble-Personalized-Changing-Think/dp/0143121235							
+The Fire Next Time	James Baldwin	Cornel West	https://andrewcarley.com/2016/01/25/cornel-west-buchempfehlungen/	http://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X							
+The First Crusade	Thomas Asbridge	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/First-Crusade-History-Conflict-Christianity/dp/0195189051							
+First Person	Vladimir Putin	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/First-Person-Astonishingly-Self-Portrait-President/dp/1586480189							
+Flow	Milhay Csikszentmihalyi	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202							
+The Forever War	Dexter Filkins	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Forever-War-Dexter-Filkins/dp/0307279448							
+The Foundation	Isaac Asimov	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354							
+The Foundation	Isaac Asimov	Paul Krugman	https://mostlyeconomics.wordpress.com/2011/07/21/krugmans-reading-list/	http://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354							
+Fragments of Culture	Deniz Kandiyoti	Elif Shafak	http://fivebooks.com/interview/elif-shafak-on-turkey/	http://www.amazon.com/Fragments-Culture-Everyday-Modern-Turkey/dp/0813530822							
+Freedom from the Unknown	Jiddu Krishnamurti	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Freedom-Known-Jiddu-Krishnamurti/dp/0060648082							
+Freedom from the Unknown	Jiddu Krishnamurti	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Freedom-Known-Jiddu-Krishnamurti/dp/0060648082							
+Freedom and Neurobiology	John Searle	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Freedom-Neurobiology-Reflections-Political-Philosophy/dp/0231137532							
+Gabriela, Clove and Cinnamon	Jorge Amado	Paul Coelho	http://theweek.com/articles/514936/best-books--chosen-by-paulo-coelho	http://www.amazon.com/Gabriela-Clove-Cinnamon-Jorge-Amado/dp/0307276651							
+The Lymond Chronicles	Dorothy Dunnett	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html	http://www.amazon.com/Game-Kings-Lymond-Chronicles/dp/0679777431							
+The Gamification Revolution: How Leaders Leverage Game Mechanics to Crush the Competition	Gabe Zichermann	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Gamification-Revolution-Leverage-Mechanics-Competition/dp/0071808310							
+The Genealogy of Morals	Friedrich Nietzsche	Richard Posner	http://concurringopinions.com/archives/2014/12/the-man-behind-the-robes-a-qa-with-richard-posner.html	http://www.amazon.com/Genealogy-Morals-Oxford-Worlds-Classics/dp/0199537089							
+The Girl with the Dragon Tattoo	Stiegg Larsson	Eric Schmidt	http://www.thewire.com/technology/2011/03/eric-schmidt-what-i-read/35648/	http://www.amazon.com/Girl-Dragon-Tattoo-Millennium/dp/0307949486							
+Global Capitalism	Jeffrey Frieden	Dani Rodrik	http://fivebooks.com/interview/dani-rodrik-on-globalisation/	http://www.amazon.com/Global-Capitalism-Fall-Twentieth-Century/dp/039332981X							
+God Is Not Great	Christopher Hitchens	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966							
+Granny Made Me an Anarchist	Stuart Christie	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky	http://www.amazon.com/Granny-Made-Me-Anarchist-General/dp/1904859658							
+The Great Big Book of Horrible Things	Matthew White	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Great-Big-Book-Horrible-Things/product-reviews/0393081923							
+The Great Gatsby	F. Scott Fitzgerald	Azar Nfisi	http://theweek.com/articles/442637/azar-nafisis-6-favorite-books	http://www.amazon.com/Great-Gatsby-F-Scott-Fitzgerald/dp/0743273567							
+The Great Gatsby	F. Scott Fitzgerald	Haruki Murakami	https://www.facebook.com/harukimurakamiauthor/posts/627318983962162	http://www.amazon.com/Great-Gatsby-F-Scott-Fitzgerald/dp/0743273567							
+The Great Transformation	Karl Polanyi	Dani Rodrik	http://fivebooks.com/interview/dani-rodrik-on-globalisation/	http://www.amazon.com/Great-Transformation-Political-Economic-Origins/dp/080705643X							
+The Great War and Modern Memory	Paul Fussell	Wade Davis	http://theweek.com/articles/479463/wade-davis-6-favorite-books-about-world-war	http://www.amazon.com/Great-War-Modern-Memory/dp/0195133323							
+Guns, Germs, and Steel	Jared Diamond	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552							
+The Hand of God	Michael Reagan	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Hand-God-Thoughts-Reflecting-Universe/dp/1599473895							
+Cosby	Mark Whitaker	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Happy-Accidents-Serendipity-Medical-Breakthroughs/dp/B0046LUU7C							
+Happy Accidents	Morton Meyers	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Happy-Accidents-Serendipity-Medical-Breakthroughs/dp/B0046LUU7C							
+On Having No Head	Douglas E. Harding	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Having-No-Head-Rediscovery-Obvious/dp/1878019198							
+Heavy Weather	PG Wodehouse	Shashi Tharoor	http://www.shashitharoor.in/interviewdetails.php?id=26	http://www.amazon.com/Heavy-Weather-P-G-Wodehouse/dp/1585672300							
+Hiding in the Mirror	Lawrence Krauss	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader	http://www.amazon.com/Hiding-Mirror-Alternate-Realities-Wonderland/dp/0143038028							
+Higher Education in the Digital Age	William Bowen	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Higher-Education-Digital-William-Bowen/dp/0691165599							
+The Histories	Herodotus	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Histories-Herodotus/dp/0140449086							
+A History of Western Philosophy	Bertrand Russell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581							
+The Hitchhiker's Guide to the Galaxy	Douglas Adams	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802							
+The Hobbit	JRR Tolkien	Ayaan Hirsi Ali	http://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html	http://www.amazon.com/Hobbit-J-R-R-Tolkien/dp/0618968636							
+Hold Me Tight	Sue Johnson	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Hold-Me-Tight-Conversations-Lifetime/dp/1491513810							
+Holy Madness	Georg Feuerstein	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Holy-Madness-Tactics-Teachings-Crazy-Wise/dp/0140193707							
+Home Is Where We Start From.	D.W. Winnicott	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Home-Where-We-Start-Psychoanalyst/dp/0393306674							
+How to Worry Less About Money	John Armstrong	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/How-Worry-Less-about-Money/dp/1447202295							
+Howard Hughes	Donald Barlett	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Howard-Hughes-His-Life-Madness/dp/0393326020							
+Human All Too Human	Friedrich Nietzsche	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Human-All-Too-Human-Spirits-Great-Philosophy/dp/1591026784							
+Human: The Science Behind What Makes Your Brain Unique	Michael Gazzaniga	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Human-Science-Behind-Makes-Unique/dp/0060892897							
+Hyperspace	Michio Kaku	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Hyperspace-Scientific-Parallel-Universes-Dimension/dp/0385477058							
+I Am That	Nisargadatta Maharaj	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/I-Am-That-Nisargadatta-Maharaj/dp/0893860468							
+I Am That	Nisargadatta Maharaj	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/I-Am-That-Nisargadatta-Maharaj/dp/0893860468							
+If You Want to Write	Brenda Ueland	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/	http://www.amazon.com/If-You-Want-Write-Independence/dp/9650060286							
+The Illusion of Conscious Will 	Daniel Wegner	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Illusion-Conscious-Will-MIT-Press/dp/0262731622							
+The Industrial Worker, 1840-1860	Norman Ware	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky	http://www.amazon.com/Industrial-Worker-1840-1860-Reaction-Revolution/dp/0929587251							
+Information	Hans Christian von Baeyer	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Information-Hans-Christian-von-Baeyer/dp/0674018575							
+The Information	James Gleick	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Information-History-Theory-Flood/dp/1400096235							
+The Innovators	Walter Isaacson	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/147670869X							
+Inquiries into Truth and Interpretation	Donald Davidson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Inquiries-Interpretation-Philosophical-Essays-Davidson/dp/0199246297							
+Inquisition	Edward Peters	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Inquisition-Edward-Peters/dp/0520066308							
+Interaction Ritual	Erving Goffman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Interaction-Ritual-Face-Face-Behavior/dp/0394706315							
+Into the Silence	Wade Davis	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html	http://www.amazon.com/Into-Silence-Mallory-Conquest-Everest/dp/0375708154							
+Into That Darkness	Gitta Sereny	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Into-That-Darkness-Examination-Conscience/dp/0394710355							
+Invariances	Robert Nozick	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Invariances-Structure-Objective-Robert-Nozick/dp/0674012453							
+The Invisibles	Grant Morrison	Douglas Rushkoff	http://www.blackbirdinc.com/recommendations/84-book-recommendations-from-douglas-rushkoff.html	http://www.amazon.com/Invisibles-Revolution-VOL-01-Vertigo/dp/1563892677							
+Irreligion	John Allen Paulos	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Irreligion-Mathematician-Explains-Arguments-Just/dp/0809059185							
+Istanbul	John Freely	Elif Shafak	http://fivebooks.com/interview/elif-shafak-on-turkey/	http://www.amazon.com/Istanbul-Imperial-City-John-Freely/dp/0140244611							
+The Journalist and the Murderer	Janet Malcolm	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Journalist-Murderer-Janet-Malcolm/dp/0679731830							
+Just My Type	Simon Garfield	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Just-My-Type-About-Fonts/dp/1592407463							
+King Lear	William Shakespeare	Amartya Sen	http://www.livemint.com/Leisure/dYfK1J0BS3fDd92iF2OFuJ/Amartya-Sen-The-uncommon-reader.html	http://www.amazon.com/King-Lear-Dover-Thrift-Editions/dp/0486280586							
+Krishnamurti's Notebook	Jiddu Krishnamurti	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Krishnamurtis-Notebook-PB-Jiddu-Krishnamurti/dp/1888004630							
+Life at the Bottom	Theodore Dalyrmple	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Life-Bottom-Worldview-Makes-Underclass/dp/1566635055							
+The Limits of Partnership	Angela Stent	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Limits-Partnership-U-S-Russian-Relations-Twenty-First/dp/0691165866							
+Little Brother	Cory Doctorow	Joichi Ito	http://joi.ito.com/weblog/books/	http://www.amazon.com/Little-Brother-Cory-Doctorow/dp/0765323117							
+The Logic of Scientific Discovery	Karl Popper	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Logic-Scientific-Discovery-Routledge-Classics/dp/0415278449							
+Loitering with Intent	Muriel Spark	Azar Nfisi	http://theweek.com/articles/442637/azar-nafisis-6-favorite-books	http://www.amazon.com/Loitering-Intent-New-Directions-Paperbook/dp/0811223035							
+The Long Goodbye	Raymond Chandler	Haruki Murakami	https://www.facebook.com/harukimurakamiauthor/posts/627318983962162	http://www.amazon.com/Long-Goodbye-Raymond-Chandler/dp/0394757688							
+The Looming Tower	Lawrence Wright	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Looming-Tower-Al-Qaeda-Road-11/dp/1400030846							
+Lord of the World	Robert Benson	Pope Francis	http://readingcatholic.com/good-reads-from-pope-francis-bookshelf-lent-book-series/	http://www.amazon.com/Lord-World-Robert-Hugh-Benson/dp/1507767072							
+A Lover's Discourse: Fragments	Roland Barthes	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Lovers-Discourse-Fragments-Roland-Barthes/dp/0374532311	Roland Barthes made unprecedented use of the tools of structuralism to explore the whimsical phenomenon of love. Rich with references ranging from Goethe's Werther to Winnicott, from Plato to Proust, from Baudelaire to Schubert, A Lover's Discourse artfully draws a portrait in which every reader will find echoes of themselves.			256	1978	FALSE	Very, very difficult to read. Not because it is hyper-intellectual and most everyone will need a dictionary on each page. This book is so difficult because it taps into the heart of the crazy abyss of love. It seemed at times as if the book could only be understood by someone in the madness of love as s/he reads it
+Loyalty 3.0: How Big Data and Gamification are Revolutionizing Customer and Employee Engagement	Rajat Paharia	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Loyalty-3-0-Revolutionize-Engagement-Gamification/dp/0071813373							
+Machete Season	Jean Hatzfeld	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Machete-Season-Killers-Rwanda-Speak/dp/0312425031							
+Madame Bovary	Gustave Flaubert	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Madame-Bovary-Classics-Gustave-Flaubert/dp/0553213415							
+The Making of the Atom Bomb	Richard Rhodes	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader	http://www.amazon.com/Making-Atomic-Bomb-25th-Anniversary/dp/1451677618							
+The Malleus Maleficarum of Heinrich Kramer and James Sprenger	Heinrich Kramer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Malleus-Maleficarum-Heinrich-Kramer/dp/1420934503							
+Man's Search for Meaning	Victor Frankl	Eric Schmidt	http://www.thewire.com/technology/2011/03/eric-schmidt-what-i-read/35648/	http://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X							
+The Mantle of Command: FDR at War, 1941-1942	Nigel Hamilton	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Mantle-Command-FDR-War-1941-1942/dp/0547775245							
+The Martian	Andy Weir	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html	http://www.amazon.com/Martian-Andy-Weir/dp/1491526513							
+Mastering the Dynamics of Innovation	James Utterback	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/	http://www.amazon.com/Mastering-Dynamics-Innovation-James-Utterback/dp/0875847404							
+Maximalist	Stephen Sestanovich	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Maximalist-America-World-Truman-Obama/dp/0307388301							
+The Meaning Of It All: Thoughts of a Citizen-Scientist	Richard Feynman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Meaning-All-Thoughts-Citizen-Scientist/dp/0465023940							
+Meditations on First Philosophy	Rene Descartes	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Meditations-First-Philosophy-Rene-Descartes/dp/1603863915							
+Meditations	Marcus Aurelius	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X							
+Meditations	Marcus Aurelius	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X							
+Merchants of Doubt	Naomi Oreskes	Bill McKibben	http://lithub.com/bill-mckibben-5-books-to-read-if-you-care-about-the-planet/	http://www.amazon.com/Merchants-Doubt-Handful-Scientists-Obscured/dp/1608193942							
+Merchants of Doubt	Naomi Oreskes	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Merchants-Doubt-Handful-Scientists-Obscured/dp/1608193942							
+Metamorphasis	Franz Kafka	Salman Rushdie	https://www.goodreads.com/interviews/show/1057.Salman_Rushdie	http://www.amazon.com/Metamorphosis-Franz-Kafka/dp/1578987857							
+The Metaphysical Club	Louis Menand	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Metaphysical-Club-Story-Ideas-America/dp/0374528497							
+A Mind at Peace	Ahmet Hamdi Tanpinar	Reza Aslan	http://theweek.com/articles/486563/reza-aslans-5-favorite-books	http://www.amazon.com/Mind-Peace-Ahmet-Hamdi-Tanpinar/dp/0982624638							
+The Mind’s Past	Michael Gazzaniga	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Minds-Past-Mich%C3%A6l-S-Gazzaniga/dp/0520224868							
+Mindstorms	Seymour Papert	Douglas Rushkoff	http://www.blackbirdinc.com/recommendations/84-book-recommendations-from-douglas-rushkoff.html	http://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746							
+Modelling Extreme Events	Paul Embrechts	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Modelling-Extremal-Events-Stochastic-Probability/dp/3540609318							
+Writing My Wrongs	Shaka Senghor	Joichi Ito	http://joi.ito.com/weblog/books/	http://www.amazon.com/Models-Behaving-Badly-Confusing-Illusion-Reality-Disaster/dp/1439164991							
+Models Behaving Badly: Why Confusing Illusion with Reality Can Lead to Disaster on Wall Street and in Life	Emanuel Derman	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Models-Behaving-Badly-Confusing-Illusion-Reality-Disaster/dp/1439164991							
+Models Behaving Badly: Why Confusing Illusion with Reality Can Lead to Disaster on Wall Street and in Life	Emanuel Derman	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Models-Behaving-Badly-Confusing-Illusion-Reality-Disaster/dp/1439164991							
+The Monkey Wrench Gang	Edward Abbey	Bill McKibben	http://www.motherjones.com/riff/2010/04/bill-mckibben-interview-nonfiction-recommendations	http://www.amazon.com/Monkey-Wrench-Gang-P-S/dp/0061129763							
+Essays	Michel de Montaigne	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Montaigne-Essays-Michel/dp/014017897X							
+Essays	Michel de Montaigne	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Montaigne-Essays-Michel/dp/014017897X							
+The Moon Is a Harsh Mistress	Robert Heinlein	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Moon-Harsh-Mistress-Robert-Heinlein/dp/0312863551							
+Mortal Questions	Thomas Nagel	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Mortal-Questions-Canto-Thomas-Nagel/dp/0521406765							
+Mortality	Christopher Hitchens	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Mortality-Christopher-Hitchens/dp/1455502766							
+How Much Land Does A Man Need?	Leo Tolstoy	Amartya Sen	http://www.livemint.com/Leisure/dYfK1J0BS3fDd92iF2OFuJ/Amartya-Sen-The-uncommon-reader.html	http://www.amazon.com/Much-Other-Stories-Penguin-Classics/dp/0140445064							
+The Mystery of Consciousness	John Searle	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Mystery-Consciousness-John-R-Searle/dp/0940322064							
+Mythologies	Roland Barthes	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Mythologies-Roland-Barthes/dp/0374521506							
+Mythologies	Roland Barthes	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Mythologies-Roland-Barthes/dp/0374521506							
+Nature Via Nurture	Matt Ridley	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Nature-Via-Nurture-Experience-Ridley/dp/B004RPN510							
+The Net Delusion	Evgeny Morozov	Dambisa Moyo	http://theweek.com/articles/486770/dambisa-moyos-6-favorite-books	http://www.amazon.com/Net-Delusion-Dark-Internet-Freedom/dp/1610391063							
+The New Atheism	Victor Stenger	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/New-Atheism-Taking-Science-Reason/dp/1591027519							
+The New Financial Order	Rober Shiller	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/New-Financial-Order-Risk-Century/dp/0691120110							
+Nisa	Marjorie Shostak	Jared Diamond	https://www.goodreads.com/interviews/show/835.Jared_Diamond	http://www.amazon.com/Nisa-Life-Words-Kung-Woman/dp/0674004329							
+Word and Object	Willard Van Orman Quine	Daniel Dennett	http://www.americanscientist.org/bookshelf/pub/daniel-c-dennett	http://www.amazon.com/Object-Studies-Communication-Willard-Orman/dp/1614275254							
+From a Logical Point of View	Willard Van Orman Quine	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Object-Studies-Communication-Willard-Orman/dp/1614275254							
+Objectivity, Relativism, and Truth	Richard Rorty	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Objectivity-Relativism-Truth-Philosophical-Cambridge/dp/0521358779							
+The Old Ways	Robert MacFarlane	John Gray	https://www.theguardian.com/books/2012/nov/23/books-of-the-year-2012-authors-favourites	http://www.amazon.com/Old-Ways-Journey-Foot/dp/0147509793							
+One Summer	Bill Bryson	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html	http://www.amazon.com/One-Summer-America-Bill-Bryson/dp/0767919416							
+The Opposing Shore	Julien Gracq	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Opposing-Shore-Julien-Gracq/dp/023105789X							
+The Origin of Species	Charles Darwin	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Origin-Species-Charles-Darwin/dp/0553214632							
+The Origin of Species	Charles Darwin	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader	http://www.amazon.com/Origin-Species-Charles-Darwin/dp/0553214632							
+Our Final Invention	James Barrat	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376							
+A Parenthesis in Eternity	Joel S. Goldsmith	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Parenthesis-Eternity-Living-Mystical-Life/dp/0060632313							
+Passionate Presence	Catherine Ingram	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Passionate-Presence-Qualities-Awakened-Awareness/dp/0978919319							
+Tartar Steppe	Dino Buzzati	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Passionate-Presence-Qualities-Awakened-Awareness/dp/0978919319							
+The Pattern on the Stone	Danny Hillis	Daniel Dennett	http://www.americanscientist.org/bookshelf/pub/daniel-c-dennett	http://www.amazon.com/Pattern-Stone-Computers-Science-Masters/dp/046502596X							
+The Pema Chodron Audio Collection	Pema Chodron	Seth Godin	http://www.businessinsider.com/seth-godin-7-audiobooks-that-will-change-your-life-2016-2	http://www.amazon.com/Pema-Chodron-Audio-Collection-Fearlessness/dp/1591791596							
+Pensees	Pascal	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Pensees-Penguin-Classics-Blaise-Pascal/dp/0140446451							
+The Peripheral	William Gibson	Douglas Rushkoff	http://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas	http://www.amazon.com/Peripheral-William-Gibson/dp/0399158448							
+The Phenomenology of the Mind	Georg Wilhelm Friedrich Hegel	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Phenomenology-Mind-Philosophical-Classics/dp/0486432513							
+Philosophical Explanations	Robert Nozick	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Philosophical-Explanations-Robert-Nozick/dp/0674664795							
+Philosophical Investigations	Ludwig Wittgenstein	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Philosophical-Investigations-3rd-Ludwig-Wittgenstein/dp/0024288101							
+The Physiology of Truth: Neuroscience and Human Knowledge	JP Changeux	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Physiology-Truth-Neuroscience-Knowledge-Initiative/dp/0674032608							
+Pnin	Vladimir Nabakov	Azar Nfisi	http://theweek.com/articles/442637/azar-nafisis-6-favorite-books	http://www.amazon.com/Pnin-Vladimir-Nabokov/dp/0679723412							
+The Portable Atheist	Christopher Hitchens	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Portable-Atheist-Essential-Readings-Nonbeliever/dp/0306816083							
+Power and Plenty	Ronald Findlay	Dani Rodrik	http://fivebooks.com/interview/dani-rodrik-on-globalisation/	http://www.amazon.com/Power-Plenty-Millennium-Princeton-Economic/dp/0691143277							
+In Praise of Folly	Erasmus	Cornel West	https://andrewcarley.com/2016/01/25/cornel-west-buchempfehlungen/	http://www.amazon.com/Praise-Folly-Desiderius-Erasmus/dp/1604502266							
+In Praise of Folly	Erasmus	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Praise-Folly-Desiderius-Erasmus/dp/1604502266							
+Primates and Philosophers	Frans de Waal	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Primates-Philosophers-Morality-Evolved-Princeton/dp/0691141290							
+The Prince	Niccolo Machiavelli	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Prince-Niccolo-Machiavelli/dp/0451531000							
+The Principles of Psychology	William James	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Principles-Psychology-Vol-1/dp/0486203816							
+Natural Ethical Facts	WD Casebeer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Principles-Psychology-Vol-1/dp/0486203816							
+Probability 1	Amir Aczel	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Probability-1-Amir-D-Aczel/dp/0156010801							
+Probability Theory	SRS Varadhan	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Probability-Theory-Courant-Lecture-Notes/dp/0821828525							
+The Problem of the Soul: Two Visions of Mind and How to Reconcile Them	Owen Flanagan	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/Problem-Soul-Visions-Mind-Reconcile/dp/0465024610							
+The Problem of the Soul: Two Visions of Mind and How to Reconcile Them	Owen Flanagan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Problem-Soul-Visions-Mind-Reconcile/dp/0465024610							
+The Psychopath	James Blair	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Psychopath-Inside-Neuroscientists-Personal-Journey/dp/1591846005							
+The Al-Qaeda Reader	Raymond Ibrahim	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Qaeda-Reader-Essential-Terrorist-Organization/dp/076792262X							
+Radiant Cool	Dan Lloyd	Daniel Dennett	http://www.americanscientist.org/bookshelf/pub/daniel-c-dennett	http://www.amazon.com/Radiant-Cool-Novel-Theory-Consciousness/dp/0262621932							
+Reasons and Persons	Derek Parfit	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X							
+Reasons and Persons	Derek Parfit	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy	http://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X							
+The Mars Trilogy 	Kim Stanley Robinson	Bill McKibben	http://www.motherjones.com/riff/2010/04/bill-mckibben-interview-nonfiction-recommendations	http://www.amazon.com/Red-Mars-Trilogy-Stanley-Robinson/dp/0553560735							
+Reefer Madness	Eric Schlosser	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Reefer-Madness-Drugs-American-Market/dp/0618446702							
+Dynasty	Tom Holland	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html	http://www.amazon.com/Reflections-Revolution-Europe-Immigration-Islam/dp/0307276759							
+Reflections on the Revolution In Europe	Christopher Caldwell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Reflections-Revolution-Europe-Immigration-Islam/dp/0307276759							
+Remembered Present: A Biological Theory Of Consciousness	Gerald Edelman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Remembered-Present-Biological-Theory-Consciousness/dp/046506910X							
+The Republic	Plato	Cornel West	https://andrewcarley.com/2016/01/25/cornel-west-buchempfehlungen/	http://www.amazon.com/Republic-Plato/dp/1420931695							
+The Return of History and the End of Dreams	Robert Kagan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Return-History-End-Dreams/dp/030738988X							
+The Road to Reality: A Complete Guide to the Laws of the Universe	Richard Penrose	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311							
+Cosmic Trigger	Robert Anton Wilson	Douglas Rushkoff	http://www.blackbirdinc.com/recommendations/84-book-recommendations-from-douglas-rushkoff.html	http://www.amazon.com/Robert-Anton-Wilsons-Cosmic-Trigger/dp/1561840114							
+Collected Maxims and Other Reflections	La Rochefoucauld	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Rochefoucauld-Maxims-Dover-Books-Literature/dp/0486451453							
+Collected Maxims and Other Reflections	La Rochefoucauld	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Rochefoucauld-Maxims-Dover-Books-Literature/dp/0486451453							
+Sapiens	Yuval Harari	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095							
+To Save Everything, Click Here: The Folly of Technological Solutionism	Evgeny Morozov	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Save-Everything-Click-Here-Technological/dp/1610393708							
+The Secret of Fatima	Peter J Tanous	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Secret-Fatima-Peter-J-Tanous/dp/1504035119							
+Secular Conscience: Why Belief Belongs in Public Life	Austin Dacey	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Secular-Conscience-Belief-Belongs-Public/dp/1591026040							
+Seeking Wisdom	Peter Bevelin	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Seeking-Wisdom-Darwin-Munger-3rd/dp/1578644283							
+The Self and Its Brain	Karl Popper	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Self-Its-Brain-Argument-Interactionism/dp/0415058988							
+The Self-Organizing Economy	Paul Krugman	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/Self-Organizing-Economy-Paul-Krugman/dp/1557866988							
+The Selfish Gene	Richard Dawkins	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html	http://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925							
+The Selfish Gene	Richard Dawkins	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy	http://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925							
+The Seventh Decade	Jonathan Schell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Seventh-Decade-Nuclear-American-Project/dp/0805081291							
+Three Essays on Sexuality	Sigmund Freud	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Sexuality-Essays-Theory-Penguin-library/dp/0140137971							
+Shadows of Forgotten Ancestors	Carl Sagan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Shadows-Forgotten-Ancestors-Carl-Sagan/dp/0345384725							
+Sick Societies: Challenging the Myth of Primitive Harmony	Robert Edgerton	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Sick-Societies-Challenging-Primitive-Harmony/dp/0029089255							
+The Singularity is Near: When Humans Transcend Biology	Ray Kurzweil	Peter Diamandis	http://fourhourworkweek.com/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/	http://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889							
+The Singularity is Near: When Humans Transcend Biology	Ray Kurzweil	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889							
+The Singularity is Near: When Humans Transcend Biology	Ray Kurzweil	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889							
+Six Easy Pieces	Richard Feynman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Six-Easy-Pieces-Essentials-Explained/dp/0465025277							
+Small Graces	Kent Nerburn	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Small-Graces-Quiet-Gifts-Everyday/dp/1577310721							
+Social Cognition	Ziva Kunda	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Social-Cognition-Making-Sense-People/dp/0262611430							
+Society without God	Phil Zuckerman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Society-without-God-Religious-Contentment/dp/0814797237							
+Thus Spake Zarathustra	Friedrich Nietzsche	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Spake-Zarathustra-Dover-Thrift-Editions/dp/0486406636							
+The Spirit of St. Louis	Charles Lindbergh	Peter Diamandis	http://fourhourworkweek.com/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/	http://www.amazon.com/Spirit-St-Louis-Charles-Lindbergh/dp/0743237056							
+The Startup of You: Adapt to the Future, Invest in Yourself and Transform Your Career	Reid Hoffman	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Start-up-You-Future-Yourself-Transform/dp/0307888908							
+The Statistical Mechanics of Financial Markets	Johannes Voit	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Statistical-Mechanics-Financial-Theoretical-Mathematical/dp/3540262857							
+Zen War Stories	Brian Victoria	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Stories-Routledge-Critical-Studies-Buddhism/dp/0700715819							
+The Story of Art	Ernst Gombrich	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472							
+The Story of the Jews	Simon Schama	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Story-Jews-Simon-Schama/dp/B00IAR2CFG							
+The Stranger	Albert Camus	Paul Coelho	http://theweek.com/articles/514936/best-books--chosen-by-paulo-coelho	http://www.amazon.com/Stranger-Albert-Camus/dp/0679720200							
+Strangers to Ourselves	Timothy Wilson	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824							
+On the Nature of the Universe	Lucretius	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824							
+Straw Dogs	John Gray	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Straw-Dogs-Thoughts-Humans-Animals/dp/0374270937							
+Stress Test	Timothy Geithner	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Stress-Test-Reflections-Financial-Crises/dp/0804138613							
+Structures	JE Gordon	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Structures-Things-Dont-Fall-Down/dp/0306812835							
+A Suitable Boy	Vikram Seth	Dambisa Moyo	http://theweek.com/articles/486770/dambisa-moyos-6-favorite-books	http://www.amazon.com/Suitable-Boy-Novel-Modern-Classics/dp/0060786523							
+Superintelligence	Nick Bostrom	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111							
+Superintelligence	Nick Bostrom	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111							
+The System Worked	Daniel Drezner	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/System-Worked-Stopped-Another-Depression/dp/0195373847							
+Systems of Survival	Jane Jacobs	Douglas Rushkoff	http://www.blackbirdinc.com/recommendations/84-book-recommendations-from-douglas-rushkoff.html	http://www.amazon.com/Systems-Survival-Dialogue-Foundations-Commerce/dp/0679748164							
+Talks with Sri Ramana Maharshi	Sri Munagala Venkataramiah	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Talks-Ramana-Maharshi-Munagala-Venkataramiah/dp/8188018074							
+Taming the Big Data Tidal Wave: Finding Opportunities in Huge Data Streams with Advanced Analytics	Bill Franks	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Taming-Data-Tidal-Wave-Opportunities/dp/1118208781							
+Tao Te Ching	Lao Tzu	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html	http://www.amazon.com/Tao-Te-Ching-Lao-Tzu/dp/1484090748							
+Tao Te Ching	Lao Tzu	Jack Ma	http://www.forbes.com/sites/christophernelson/2015/07/17/the-influential-book-in-alibaba-founder-jack-mas-briefcase/#d339ed13069b	http://www.amazon.com/Tao-Te-Ching-Lao-Tzu/dp/1484090748							
+Tao Te Ching	Lao Tzu	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Tao-Te-Ching-Lao-Tzu/dp/1484090748							
+Technics and Civilization 	Lewis Mumford	Evgeny Morozov	http://fivebooks.com/interview/evgeny-morozov-on-philosophy-of-technology/	http://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273							
+Technics and Civilization 	Lewis Mumford	Douglas Rushkoff	http://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas	http://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273							
+The Terror Presidency	Jack Goldsmith	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/Terror-Presidency-Judgment-Inside-Administration/dp/039333533X							
+Terrorist Hunter	Anonymous	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Terrorist-Hunter-Extraordinary-Undercover-Infiltrate/dp/0060528192							
+Thinking, Fast and Slow	Daniel Kahneman	Fareed Zakaria	http://theweek.com/articles/463752/fareed-zakarias-6-favorite-books	http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555							
+Thinking, Fast and Slow	Daniel Kahneman	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555							
+Thinking, Fast and Slow	Daniel Kahneman	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555							
+The Three Sisters	Anton Chekhov	Cornel West	https://andrewcarley.com/2016/01/25/cornel-west-buchempfehlungen/	http://www.amazon.com/Three-Sisters-Dover-Thrift-Editions/dp/0486275442							
+The Tom Peters Seminar	Tom Peters	Seth Godin	https://www.goodreads.com/interviews/show/833.Seth_Godin	http://www.amazon.com/Tom-Peters-Seminar-Crazy-Organizations/dp/0679754938							
+Walden	Henry David Thoreau	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Tom-Peters-Seminar-Crazy-Organizations/dp/0679754938							
+The Trial of Socrates 	IF Stone	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Trial-Socrates-I-F-Stone/dp/0385260326							
+Sword of Honor	Evelyn Waugh	Richard Dawkins	http://theweek.com/articles/459238/richard-dawkins-5-favorite-books	http://www.amazon.com/Trilogy-Everymans-Library-Classics-Contemporary/dp/0679431365							
+On Truth	Harry Frankfurt	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Truth-Harry-G-Frankfurt/dp/030726422X							
+The Tyranny of Oil	Antonia Juhasz	Bill McKibben	http://lithub.com/bill-mckibben-5-books-to-read-if-you-care-about-the-planet/	http://www.amazon.com/Tyranny-Oil-Worlds-Powerful-Industry/dp/0061434515							
+A Universe from Nothing	Lawrence Krauss	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Universe-Nothing-There-Something-Rather/dp/1451624468							
+The Unquiet Grave	Cyril Connolly	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Unquiet-Grave-Word-Cycle-Palinurus/dp/0892550589							
+Unto this Last	John Ruskin	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Unto-Other-Writings-Penguin-Classics/dp/0140432116							
+The Varieties of Scientific Experience	Carl Sagan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Varieties-Scientific-Experience-Personal-Search/dp/0143112627							
+The View from Nowhere	Thomas Nagel	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/View-Nowhere-Thomas-Nagel/dp/0195056442							
+Voyage of the Beagle	Charles Darwin	Richard Dawkins	https://www.goodreads.com/interviews/show/891.Richard_Dawkins	http://www.amazon.com/Voyage-Beagle-Charles-Researches-Classics/dp/014043268X							
+Waking Up in Time	Peter Russell	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Waking-Up-Time-Finding-Accelerating/dp/157983020X							
+Walden	Henry David Thoreau	Bill McKibben	http://www.motherjones.com/riff/2010/04/bill-mckibben-interview-nonfiction-recommendations	http://www.amazon.com/Walden-Henry-David-Thoreau/dp/1494812509							
+War and Peace	Leo Tolstoy	Niall Ferguson	http://theweek.com/articles/510693/best-books--chosen-by-niall-ferguson	http://www.amazon.com/War-Peace-Penguin-Classics-Tolstoy/dp/0140447938							
+@War	Shane Harris	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/War-Rise-Military-Internet-Complex/dp/0544251792							
+New Waves in Philosophy of Technology	Jan-Kyrre Berg Olsen	Evgeny Morozov	http://fivebooks.com/interview/evgeny-morozov-on-philosophy-of-technology/	http://www.amazon.com/Waves-Philosophy-Technology-Kyrre-Olsen/dp/0230220002							
+Ways of Seeing	John Berger	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Ways-Seeing-Based-BBC-Television/dp/0140135154							
+The Wealth of Nations	Adam Smith	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1604598913							
+What Is Life? How Chemistry Becomes Biology	Addy Pross	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/	http://www.amazon.com/What-Life-Chemistry-Becomes-Biology/dp/0199687773							
+What Went Wrong?	Bernard Lewis	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054							
+Who Owns the Future?	Jaron Lanier	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Who-Owns-Future-Jaron-Lanier/dp/1451654979							
+Who Stole Feminism?	Christina Hoff Sommers	Ayaan Hirsi Ali	http://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html	http://www.amazon.com/Who-Stole-Feminism-Women-Betrayed/dp/0684801566							
+Why Nations Fail: The Origins of Power, Prosperity, and Poverty	Daron Acemoglu	Abdullah Gul	http://rudaw.net/english/opinion/19012014	http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719227/	Brilliant and engagingly written, Why Nations Fail answers the question that has stumped the experts for centuries: Why are some nations rich and others poor, divided by wealth and poverty, health and sickness, food and famine?   Is it culture, the weather, geography? Perhaps ignorance of what the right policies are?   Simply, no. None of these factors is either definitive or destiny. Otherwise, how to explain why Botswana has become one of the fastest growing countries in the world, while other African nations, such as Zimbabwe, the Congo, and Sierra Leone, are mired in poverty and violence? 			544	2013	TRUE	To an economist like me, reading Why Nations Fail, by Daron Acemoglu and James Robinson, is akin to being set free from shackles worn since I began studying. However, first let me say that the book has many and serious shortcomings. Let me talk about these before I get into why this book set me free. Since I am going to strongly criticize aspects of the book, let me make clear that this is one of the best books on economics I have read in a long time.
+Why We Believe in God(s)	J. Anderson Thomson	Richard Dawkins	http://www.nytimes.com/2013/09/15/books/review/richard-dawkins-by-the-book.html?_r=0	http://www.amazon.com/Why-We-Believe-God-Concise/dp/0984493212							
+Why the West Rules–for Now	Ian Morris	Daniel Dennett	http://thebooksproject.co/daniel-dennett/	http://www.amazon.com/Why-West-Rules-Now-Patterns/dp/0312611692							
+Wider Than the Sky: The Phenomenal Gift of Consciousness	Gerald Edelman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Wider-Than-Sky-Phenomenal-Consciousness/dp/0300107617							
+Wild Minds	Marc Hauser	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/Wild-Minds-Animals-Really-Think/dp/080505670X							
+Wisdom from an Empty Mind	Jacob Liberman	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Wisdom-Empty-Mind-Jacob-Liberman/dp/1882898109							
+On the Wisdom of Life	Arthur Schopenhauer	Alain de Botton	http://alaindebotton.com/book-list/	http://www.amazon.com/Wisdom-Life-Arthur-Schopenhauer/dp/0486435504							
+The Wisdom Way of Knowing	Cynthia Bourgeault	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	http://www.amazon.com/Wisdom-Way-Knowing-Reclaiming-Tradition/dp/078796896X							
+Witches & Neighbors	Robin Briggs	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all	http://www.amazon.com/Witches-Neighbors-Cultural-European-Witchcraft/dp/0140144382							
+It Worked for Me: In Life and Leadership	Colin Powell	Abdullah Gul	http://rudaw.net/english/opinion/19012014	http://www.amazon.com/Worked-Me-Life-Leadership/dp/0062135139	Colin Powell, one of America’s most admired public figures, reveals the principles that have shaped his life and career in this inspiring and engrossing memoir.			304	2014	FALSE	It combines anecdotes reminiscent of Dwight Eisenhower's "At Ease" with an inspirational life message and an analytical approach to leadership gleaned and honed over more than a half century of service to his country. As he says in his introduction, you can read it whole (sequentially chapter by chapter) or graze at random. I chose the former approach, and found it a tightly written and easily consumed. 
+A World Lit Only by Fire	William Manchester	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	http://www.amazon.com/World-Lit-Only-Fire-Renaissance/dp/0316545562							
+World Order	Henry Kissinger	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	http://www.amazon.com/World-Order-Henry-Kissinger/dp/1594206147							
+Zen Mind, Beginner's Mind	Shunryu Suzuki	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288	http://www.amazon.com/Zen-Mind-Beginners-Shunryu-Suzuki/dp/1590308492							
+Zero to One	Peter Thiel	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296							
+Black Cloud	Fred Hoyle	Richard Dawkins	http://www.nytimes.com/2013/09/15/books/review/richard-dawkins-by-the-book.html?_r=0	https://www.amazon.com/Black-Cloud-Valancourt-Century-Classics/dp/1941147429							
+Why We Get Sick	Randolph Nesse 	Richard Dawkins	http://www.thedailybeast.com/articles/2012/09/27/what-richard-dawkins-reads-jerry-coyne-helena-cronin-and-more.html	https://www.amazon.com/Black-Cloud-Valancourt-Century-Classics/dp/1941147429							
+China's Trapped Transition	Minxin Pei	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	https://www.amazon.com/Chinas-Trapped-Transition-Developmental-Autocracy/dp/067402754X							
+The Circle	Dave Eggers	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	https://www.amazon.com/Circle-Dave-Eggers-ebook/dp/B00EGMQIJ0							
+The Culture	Iain Banks	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html	https://www.amazon.com/Consider-Phlebas-Culture-Novel-Book-ebook/dp/B0013TX6FI?ie=UTF8&keywords=iain%20banks%20culture&qid=1465241097&ref_=sr_1_1&s=books&sr=1-1							
+Free the Animal	Richard Nikoley	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	https://www.amazon.com/Free-Animal-Caveman-EXPANDED-UPDATED-ebook/dp/B006X7PBNA							
+The Kelly Capital Growth Investment Criterion	Leonard MacLean	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/	https://www.amazon.com/Kelly-Capital-Growth-Investment-Criterion/dp/9814383139							
+Leaps of Faith	Nicholas Humphrey	Daniel Dennett	http://www.americanscientist.org/bookshelf/pub/daniel-c-dennett	https://www.amazon.com/Leaps-Faith-Miracles-Supernatural-Consolation-ebook/dp/B0092FE0LE							
+Love	Stendhal	Alain de Botton	http://alaindebotton.com/book-list/	https://www.amazon.com/Love-Classics-Stendhal-ebook/dp/B002RI99DC	In 1818, when he was in his mid-thirties, Stendhal met and fell passionately in love with the beautiful Mathilde Dembowski. She, however, was quick to make it clear that she did not return his affections, and in his despair he turned to the written word to exorcise his love and explain his feelings.			340	1822	FALSE	e'. On the surface the work is a philosophical and scientific discourse on the nature of love, and as such it has so much truth and insight that I urge you to give it to your loved one so that he/she might understand you a little better.
+Nagarjuna's Seventy Stanzas	David Komito	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	https://www.amazon.com/Nagarjunas-Seventy-Stanzas-Psychology-Emptiness/dp/0937938394							
+Noble Savages	Napoleon Chagnon	Jared Diamond	https://www.goodreads.com/interviews/show/835.Jared_Diamond	https://www.amazon.com/Noble-Savages-Dangerous-Yanomamo-Anthropologists-ebook/dp/B006VJN2FE							
+P53	Sue Armstrong	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html	https://www.amazon.com/p53-Gene-that-Cracked-Cancer/dp/1472910516							
+The Power of Habit	Charles Duhigg	Fareed Zakaria	http://theweek.com/articles/463752/fareed-zakarias-6-favorite-books	https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU							
+The Quran Speaks	Bahis Sedq	Ayaan Hirsi Ali	http://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html	https://www.amazon.com/Quran-Speaks-Bahis-Sedq-ebook/dp/B00D3RUIWC							
+Race Against the Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy	Erik Brynjolfsson	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/	https://www.amazon.com/Race-Against-Machine-Accelerating-Productivity-ebook/dp/B005WTR4ZI							
+Romeo & Juliet	William Shakespeare	Shashi Tharoor	http://www.shashitharoor.in/interviewdetails.php?id=26	https://www.amazon.com/Romeo-Juliet-No-Fear-Shakespeare/dp/B001TI5J76							
+Sorrows of Young Werther	Johann Wolfgange Von Gothe	Alain de Botton	http://alaindebotton.com/book-list/	https://www.amazon.com/Sorrows-Young-Werther-Xist-Classics-ebook/dp/B01BN2B77S	An autobiographical tragic novel that follows the unhappiness of Werther after he falls desperately in love with Charlotte Buff , a young woman who is married to another			102	1774	FALSE	I always find it sad that more people do not read Goethe for pleasure alone. Yes, he was a "scholarly" writer but his works, although profound, are written in an easily understandable style. I think too many people have been needlessly scared off by Goethe's monumental intelligence and his philosophy. This is too bad. His books revolve around themes that are universal, subjects to which all of us can relate: romantic love, nature, God, beauty.
+U and I	Nicholas Baker	Alain de Botton	http://alaindebotton.com/book-list/	https://www.amazon.com/True-Story-Vintage-Contemporaries-ebook/dp/B005GFBWQK							
+The Up Side of Down	Megan McArdle	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/	https://www.amazon.com/Up-Side-Down-Failing-Success-ebook/dp/B00DMCV4GM							
+The Way of the Wizard	Deepak Chopra	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/	https://www.amazon.com/Way-Wizard-Spiritual-Lessons-Creating/dp/051770434X							
+The Will to Believe, Human Immortality, and Other Essays in Popular Philosophy	William James	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144	https://www.amazon.com/Will-Believe-William-James/dp/147017961X							
+Rissa Kerguelen	FM Busby	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html	https://www.amazon.com/Young-Rissa-Kerguelen-Book-ebook/dp/B00J52FLEE							
+New Rules for the New Economy	Kevin Kelly	Seth Godin	http://250words.com/2014/01/books-for-the-new-entrepreneur/								
+The War of Art	Steve Pressfield	Seth Godin	http://250words.com/2014/01/books-for-the-new-entrepreneur/								
+Zig Ziglar’s Secrets of Closing the Sale	Zig Ziglar	Seth Godin	http://250words.com/2014/01/books-for-the-new-entrepreneur/								
+A Scattering	Christopher Reid	Alain de Botton	http://alaindebotton.com/book-list/								
+The Art of Loving	Erich Fromm	Alain de Botton	http://alaindebotton.com/book-list/								
+The Social Contract	Jean Jacques Rousseau	Alain de Botton	http://alaindebotton.com/book-list/								
+Civilisation	John Armstrong	Alain de Botton	http://alaindebotton.com/book-list/								
+The Communist Manifesto	Karl Marx	Alain de Botton	http://alaindebotton.com/book-list/								
+Pensieri	Leopardi	Alain de Botton	http://alaindebotton.com/book-list/								
+Culture and Anarchy	Matthew Arnold	Alain de Botton	http://alaindebotton.com/book-list/								
+The Needs of Strangers	Michael Ignatieff	Alain de Botton	http://alaindebotton.com/book-list/								
+They F You Up	Oliver James	Alain de Botton	http://alaindebotton.com/book-list/								
+The Dying Animal	Philip Roth	Alain de Botton	http://alaindebotton.com/book-list/								
+Couch Fiction	Philippa Perry	Alain de Botton	http://alaindebotton.com/book-list/								
+The Symposium	Plato	Alain de Botton	http://alaindebotton.com/book-list/								
+What should I do with my Life	Po Bronson	Alain de Botton	http://alaindebotton.com/book-list/								
+Camera Lucida	Roland Barthes	Alain de Botton	http://alaindebotton.com/book-list/								
+Letters from a Stoic	Seneca	Alain de Botton	http://alaindebotton.com/book-list/								
+An Intimate History of Humanity	Theodor Zeldin	Alain de Botton	http://alaindebotton.com/book-list/								
+An Intimate History of Humanity	Theodor Zeldin	Alain de Botton	http://alaindebotton.com/book-list/								
+22 Immutable Laws of Marketing	Al Ries	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+Positioning	Al Ries	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+Science and Sanity	Alfred Korzybski	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+Islandia	Austin Tappan Wright	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+The Unix Programming Environment	Brian Kernighan	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+The Innovator's Dilemma	Clayton Christensen	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+Dune	Frank Herbert	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+Built to Last	James Collins	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+The Meaning of Culture	John Cowper Powys	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+An Introduction to Realistic Philosophy	John Wild	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+Code and Other Laws of Cyberspace	Lawrence Lessig	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+Rasselas	Samuel Johnson	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+The Structure of Scientific Revolutions	Thomas Kuhn	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+The Palm at the End of the Mind	Wallace Stevens	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+On Writing Well	William Zinsser	Tim O'Reilly	http://archive.oreilly.com/pub/a/oreilly/tim/articles/favebooks_0705.html								
+Globalizing Capital	Barry Eichengreen	Dani Rodrik	http://fivebooks.com/interview/dani-rodrik-on-globalisation/								
+One World	Peter Singer	Dani Rodrik	http://fivebooks.com/interview/dani-rodrik-on-globalisation/								
+Tales from the Expat Harem	Anastasia Ashman 	Elif Shafak	http://fivebooks.com/interview/elif-shafak-on-turkey/								
+Rethinking Modernity and National Identity in Turkey	Sibel Bozdogan	Elif Shafak	http://fivebooks.com/interview/elif-shafak-on-turkey/								
+Technology and the Character of Contemporary Life	Albert Borgmann	Evgeny Morozov	http://fivebooks.com/interview/evgeny-morozov-on-philosophy-of-technology/								
+Does Technology Drive History? The Dilemma of Technological Determinism 	Merritt Roe Smith	Evgeny Morozov	http://fivebooks.com/interview/evgeny-morozov-on-philosophy-of-technology/								
+Atlas Shrugged	Ayn Rand	Peter Diamandis	http://fourhourworkweek.com/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/								
+The Man Who Sold the Moon and Orphans of the Sky	Robert Heinlein	Peter Diamandis	http://fourhourworkweek.com/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/								
+Stringer	Anjan Sundaram	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+The Director	David Ignatius	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+National Insecurity	David Rothkopf	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+Lost for Words	Edward St. Aubyn	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+The Second Machine Age	Erik Brynjolfsson	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+Good Hunting: An American Spymaster's Story	Jack Devine	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+The Universe edited	John Brockman	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+The Fourth Revolution	John Micklethwait & Adrian Wooldridge	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+The Intel Trinity	Michael Malone	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+The Mantle of Command: FDR at War, 1941-1942	Nigel Hamilton	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+Zero to One	Peter Thiel	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+The Rule of Nobody	Philip K. Howard	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+Temptations of Power: Islamists and Illiberal Democracy in a New Middle East	Shadi Hamid	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+Capital in the Twenty-First Century	Thomas Piketty	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life	William Deresiewicz	Fareed Zakaria	http://globalpublicsquare.blogs.cnn.com/2012/07/23/a-list-of-fareeds-gps-book-recommendations/								
+Influence: The Psychology of Persuasion	Bob Cialdini	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/								
+The Innovator's Dilemma	Clayton Christensen	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/								
+Uncommon Genius	Denise Shekerjian	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/								
+Crossing the Chasm	Geoffrey Moore	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/								
+The Hockey Handbook	Lloyd Percival	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/								
+Inevitable Illusions	Massimo Piattelli-Palmarini	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/								
+The Chicago Manual of Style	University of Chicago	Guy Kawasaki	http://guykawasaki.com/my_ten_favorite/								
+DAEMON	Leinad Zeraus	Joichi Ito	http://joi.ito.com/weblog/books/								
+Trespassing Across America	Ken Ilgunas	Bill McKibben	http://lithub.com/bill-mckibben-5-books-to-read-if-you-care-about-the-planet/								
+This Changes Everything	Naomi Klein	Bill McKibben	http://lithub.com/bill-mckibben-5-books-to-read-if-you-care-about-the-planet/								
+Private Empire	Steve Coll	Bill McKibben	http://lithub.com/bill-mckibben-5-books-to-read-if-you-care-about-the-planet/								
+Great Expectations	Charles Dickens	Jane Goodall	http://news.janegoodall.org/2016/04/23/1013/								
+Tarzan of the Apes	Edgar Rice Burroughs	Jane Goodall	http://news.janegoodall.org/2016/04/23/1013/								
+The Story of Doctor Dolittle	Hugh Lofting	Jane Goodall	http://news.janegoodall.org/2016/04/23/1013/								
+The Miracle of Life	Merce Parramon	Jane Goodall	http://news.janegoodall.org/2016/04/23/1013/								
+One Pair of Hands	Monica Dickens	Jane Goodall	http://news.janegoodall.org/2016/04/23/1013/								
+The Rime of the Ancient Mariner	Samuel Taylor Coleridge	Jane Goodall	http://news.janegoodall.org/2016/04/23/1013/								
+The Betrothed	Alessandro Manzoni	Pope Francis	http://readingcatholic.com/good-reads-from-pope-francis-bookshelf-lent-book-series/								
+The Lord	Romano Guardini	Pope Francis	http://readingcatholic.com/good-reads-from-pope-francis-bookshelf-lent-book-series/								
+The Story of a Soul	St Therese de Lisieux	Pope Francis	http://readingcatholic.com/good-reads-from-pope-francis-bookshelf-lent-book-series/								
+The Discovery of India	Jawaharlal Nehru	Shashi Tharoor	http://sandyi.blogspot.com/2008/02/interview-with-shashi-tharoor.html								
+The Book of Laughter and Forgetting	Milan Kundera	Shashi Tharoor	http://sandyi.blogspot.com/2008/02/interview-with-shashi-tharoor.html								
+The Saga of Khassak	OV Vijayan	Shashi Tharoor	http://sandyi.blogspot.com/2008/02/interview-with-shashi-tharoor.html								
+The Rational Optimist	Matt Ridley	Daniel Dennett	http://thebooksproject.co/daniel-dennett/								
+The Really Hard Problem: Meaning in a Material World	Owen Flanagan	Daniel Dennett	http://thebooksproject.co/daniel-dennett/								
+The Ancestor's Tale	Richard Dawkins	Daniel Dennett	http://thebooksproject.co/daniel-dennett/								
+Enemies, A Love Story	Isaac Singer	Steven Pinker	http://thebooksproject.co/steven-pinker/								
+The Mind-Body Problem	Rebecca Goldstein	Steven Pinker	http://thebooksproject.co/steven-pinker/								
+The Careful Writer	Theodore Bernstein	Steven Pinker	http://thebooksproject.co/steven-pinker/								
+The Strategy of Conflict	Thomas Schelling	Steven Pinker	http://thebooksproject.co/steven-pinker/								
+The Little Prince	Antoine de Saint-Exupery	Azar Nfisi	http://theweek.com/articles/442637/azar-nafisis-6-favorite-books								
+Notes of a Native Son	James Baldwin	Azar Nfisi	http://theweek.com/articles/442637/azar-nafisis-6-favorite-books								
+Red Strangers	Elspeth Huxley	Richard Dawkins	http://theweek.com/articles/459238/richard-dawkins-5-favorite-books								
+Pluto's Republic	Peter Medawar	Richard Dawkins	http://theweek.com/articles/459238/richard-dawkins-5-favorite-books								
+Uncle Fred in the Springtime	PG Wodehouse	Richard Dawkins	http://theweek.com/articles/459238/richard-dawkins-5-favorite-books								
+The Righteous Mind	Jonathan Haidt	Fareed Zakaria	http://theweek.com/articles/463752/fareed-zakarias-6-favorite-books								
+The Better Angels of Our Nature	Steven Pinker	Fareed Zakaria	http://theweek.com/articles/463752/fareed-zakarias-6-favorite-books								
+Three Day Road	Joseph Boyden	Wade Davis	http://theweek.com/articles/479463/wade-davis-6-favorite-books-about-world-war								
+Good-Bye to All That	Robert Graves	Wade Davis	http://theweek.com/articles/479463/wade-davis-6-favorite-books-about-world-war								
+Birdsong	Sebastian Faulks	Wade Davis	http://theweek.com/articles/479463/wade-davis-6-favorite-books-about-world-war								
+Seven Pillars of Wisdom	TE Lawrence	Wade Davis	http://theweek.com/articles/479463/wade-davis-6-favorite-books-about-world-war								
+Testament of Youth	Vera Brittain	Wade Davis	http://theweek.com/articles/479463/wade-davis-6-favorite-books-about-world-war								
+Samarkand	Amin Maalouf	Reza Aslan	http://theweek.com/articles/486563/reza-aslans-5-favorite-books								
+The Secret Life of Saeed the Pessoptimist	Emile Habiby 	Reza Aslan	http://theweek.com/articles/486563/reza-aslans-5-favorite-books								
+The Day the Leader Was Killed	Naguib Mahfouz	Reza Aslan	http://theweek.com/articles/486563/reza-aslans-5-favorite-books								
+The End of the Free Market	Ian Bremmer	Dambisa Moyo	http://theweek.com/articles/486770/dambisa-moyos-6-favorite-books								
+The Party	Richard McGregor	Dambisa Moyo	http://theweek.com/articles/486770/dambisa-moyos-6-favorite-books								
+The History of the Decline and Fall of the Roman Empire	Edward Gibbon	Niall Ferguson	http://theweek.com/articles/510693/best-books--chosen-by-niall-ferguson								
+At Swim-Two-Birds	Flann O'Brien	Niall Ferguson	http://theweek.com/articles/510693/best-books--chosen-by-niall-ferguson								
+Gold and Iron	Fritz Stern	Niall Ferguson	http://theweek.com/articles/510693/best-books--chosen-by-niall-ferguson								
+The Private Memoirs and Confessions of a Justified Sinner	James Hogg	Niall Ferguson	http://theweek.com/articles/510693/best-books--chosen-by-niall-ferguson								
+The Last Days of Mankind	Karl Kraus	Niall Ferguson	http://theweek.com/articles/510693/best-books--chosen-by-niall-ferguson								
+Or I’ll Dress You in Mourning	Dominique Lapierre	Paul Coelho	http://theweek.com/articles/514936/best-books--chosen-by-paulo-coelho								
+Tropic of Cancer	Henry Miller	Paul Coelho	http://theweek.com/articles/514936/best-books--chosen-by-paulo-coelho								
+The Bloody Chamber	Angela Carter	Salman Rushdie	http://theweek.com/articles/576408/salman-rushdies-6-favorite-surrealist-books								
+The Nonexistent Knight	Italo Calvino	Salman Rushdie	http://theweek.com/articles/576408/salman-rushdies-6-favorite-surrealist-books								
+Pedro Páramo	Juan Rulfo	Salman Rushdie	http://theweek.com/articles/576408/salman-rushdies-6-favorite-surrealist-books								
+The Sirens of Titan 	Kurt Vonnegut	Salman Rushdie	http://theweek.com/articles/576408/salman-rushdies-6-favorite-surrealist-books								
+The Master and Margarita	Mikhail Bulgakov	Salman Rushdie	http://theweek.com/articles/576408/salman-rushdies-6-favorite-surrealist-books								
+Riddley Walker	Russell Hoban	Salman Rushdie	http://theweek.com/articles/576408/salman-rushdies-6-favorite-surrealist-books								
+Operating Manual for Spaceship Earth	Buckminster Fuller	Douglas Rushkoff	http://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas								
+Technopoly: The Surrender of Culture to Technology	Neal Postman	Douglas Rushkoff	http://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas								
+The Mind's I	Douglas Hofstadter	Daniel Dennett	http://www.americanscientist.org/bookshelf/pub/daniel-c-dennett								
+Cultural Software	JM Balkin	Daniel Dennett	http://www.americanscientist.org/bookshelf/pub/daniel-c-dennett								
+The History of the Decline and Fall of the Roman Empire	Edward Gibbon	Steven Weinberg	http://www.americanscientist.org/bookshelf/pub/scientists-nightstand-steven-weinberg								
+Professor Romeo	Ann Bernays	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+The Family Tree 	Carole Cadwalladr	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+Problems in Philosophy	Colin McGinn	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+Thinks ...	David Lodge	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+One, Two, Three ... Infinity	George Gamow	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+A History of Force	James Payne	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+The Nurture Assumption	Judith Rich Harris	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+Huckleberry Finn	Mark Twain	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+The Tin Men 	Michael Frayn	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+The Selfish Gene	Richard Dawkins	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+Brain Storm	Richard Dooling	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+The Last Word	Thomas Nagel	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+Brazzaville Beach	William Boyd	Steven Pinker	http://www.americanscientist.org/bookshelf/pub/steven-pinker								
+Exodus in The Five Books of Moses	Everett Fox	Douglas Rushkoff	http://www.blackbirdinc.com/recommendations/84-book-recommendations-from-douglas-rushkoff.html								
+The Turbulent Mirror	John Briggs	Douglas Rushkoff	http://www.blackbirdinc.com/recommendations/84-book-recommendations-from-douglas-rushkoff.html								
+The Origin of Consciousness in the Breakdown of the Bicameral Mind	Julian Jaynes	Douglas Rushkoff	http://www.blackbirdinc.com/recommendations/84-book-recommendations-from-douglas-rushkoff.html								
+Chaos and Cyber Culture	Timothy Leary	Douglas Rushkoff	http://www.blackbirdinc.com/recommendations/84-book-recommendations-from-douglas-rushkoff.html								
+Debt: The First 5,000 Years	David Graeber	Seth Godin	http://www.businessinsider.com/seth-godin-7-audiobooks-that-will-change-your-life-2016-2								
+Just Kids	Patti Smith	Seth Godin	http://www.businessinsider.com/seth-godin-7-audiobooks-that-will-change-your-life-2016-2								
+The Art of Possibility	Rosamund Stone Zander	Seth Godin	http://www.businessinsider.com/seth-godin-7-audiobooks-that-will-change-your-life-2016-2								
+Ignition!	John Clark	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html								
+The Lord of the Rings	JRR Tolkien	Elon Musk	http://www.inc.com/business-insider/14-books-elon-musk-thinks-you-should-read.html								
+Man and Superman	George Bernard Shaw	Amartya Sen	http://www.livemint.com/Leisure/dYfK1J0BS3fDd92iF2OFuJ/Amartya-Sen-The-uncommon-reader.html								
+Coriolanus	William Shakespeare	Amartya Sen	http://www.livemint.com/Leisure/dYfK1J0BS3fDd92iF2OFuJ/Amartya-Sen-The-uncommon-reader.html								
+Intuition Pumps and Other Tools for Thinking	Daniel Dennett	Richard Dawkins	http://www.nytimes.com/2013/09/15/books/review/richard-dawkins-by-the-book.html?_r=0								
+Evolution of Cooperation	Robert Axelrod	Richard Dawkins	http://www.nytimes.com/2013/09/15/books/review/richard-dawkins-by-the-book.html?_r=0								
+Attack of the Theocrats	Sean Faircloth	Richard Dawkins	http://www.nytimes.com/2013/09/15/books/review/richard-dawkins-by-the-book.html?_r=0								
+Extraordinary Popular Delusions and the Madness of Crowds	Charles Mackay	Ayaan Hirsi Ali	http://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html								
+Freedom Feminism: Its Surprising History and Why It Matters Today	Christina Hoff Sommers	Ayaan Hirsi Ali	http://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html								
+The New Digital Age	Eric Schmidt	Ayaan Hirsi Ali	http://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html								
+The Hockey Stick Illusion	Andrew Montford	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html								
+What You Want	Constantine Phipps	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html								
+The Vital Question: Energy, Evolution, and the Origins of Complex Life	Nick Lane	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html								
+The Weather Experiment	Peter Moore	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html								
+Arcadia	Tom Stoppard	Matt Ridley	http://www.nytimes.com/2015/10/18/books/review/matt-ridley-by-the-book.html								
+The Inflationary Universe: The Quest for a New Theory of Cosmic Origins	Alan Guth	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Atheist’s Guide to Reality: Enjoying Life Without Illusions	Alexander Rosenberg	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Trespassing on Einstein’s Lawn: A Father, a Daughter, the Meaning of Nothing, and the Beginning of Everything	Amanda Gefter	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Self Comes to Mind: Constructing the Conscious Brain	Antonio Damasio	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Fabric of the Cosmos: Space, Time, and the Texture of Reality	Brian Greene	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Physicalism and Its Discontents	Carl Gillett	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Demon-Haunted World: Science as a Candle in the Dark	Carl Sagan	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Mistakes Were Made	Carol Tavris	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Why Information Grows: The Evolution of Order, from Atoms to Economies	Cesar Hidalgo	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+A Better Life: 100 Atheists Speak Out on Joy & Meaning in a World Without God	Chris Johnson	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Predictably Irrational: The Hidden Forces that Shape Our Decisions	Dan Ariely	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Consciousness Explained	Daniel Dennett	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Darwin’s Dangerous Idea: Evolution and the Meanings of Life	Daniel Dennett	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Intuition Pumps and Other Tools for Thinking	Daniel Dennett	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Time and Chance	David Albert	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Fabric of Reality: The Science of Parallel Universes and Its Implications	David Deutsch	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Incognito: The Secret Lives of the Brain	David Eagleman	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Emergent Multiverse: Quantum Theory According to the Everett Interpretation	David Wallace	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Conscious Mind: In Search of a Fundamental Theory	DJ Chalmers	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Cells to Civilizations: The Principles of Change that Shape Life	Enrico Coen	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Meaning of Human Existence	EO Wilson	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Does Santa Exist? A Philosophical Investigation	Eric Kaplan	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Five Ages of the Universe: Inside the Physics of Eternity	Fred Adams	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Spooky Action at a Distance: The Phenomenon That Reimagines Space and Time–and What It Means for Black Holes, the Big Bang, and Theories of Everything	George Musser	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Phi: A Voyage from the Brain to the Soul	Giulio Tononi	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Good Without God: What a Billion Nonreligious People Do Believe	Greg Epstein	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Constructivism in Practical Philosophy	James Lenman	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Why Evolution Is True	Jerry Coyne	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Why Does the World Exist	Jim Holt	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Storytelling Animal: How Stories Make Us Human	Jonathan Gottschall	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Moral Tribes: Emotion, Reason, and the Gap Between Us and Them	Joshua Greene	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Knocking on Heaven’s Door: How Physics and Scientific Thinking Illuminate the Universe and the Modern World	Lisa Randall	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Call of Character: Living a Life Worth Living	Mari Ruti	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Complexity: A Guided Tour	Melanie Mitchell	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Who’s In Charge? Free Will and the Science of the Brain	Michael Gazzaniga	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Signal and the Noise: Why So Many Predictions Fail	Nate Silver	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Your Inner Fish: A Journey into the 3	Neil Shubin	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Vital Question: Energy, Evolution, and the Origins of Complex Life	Nick Lane	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Really Hard Problem: Meaning in a Material World	Owen Flanagan	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Touching a Nerve: The Self as Brain	Patricia Churchland	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+How Nature Works: The Science of Self-Organized Criticality	Per Bak	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Shadow of Consciousness	Peter Hankins	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Life’s Ratchet: How Molecular Machines Extract Order from Chaos	Peter Hoffman	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Ethical Project	Philip Kitcher	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Character of Physical Law	Richard Feynman	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+Quantum Computing Since Democritus	Scott Aaronson	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+The Grand Design	Stephen Hawking	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+To Explain the World: The Discovery of Modern Science	Steven Weinberg	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+A Significant Life: Human Meaning in a Silent Universe	Todd May	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+A Dialogue on Consciousness	Torin Halter	Sean Carroll	http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/								
+100 Years of Solitude	Gabriel Garcia Marquez	Shashi Tharoor	http://www.shashitharoor.in/interviewdetails.php?id=26								
+Iliad	Homer	Shashi Tharoor	http://www.shashitharoor.in/interviewdetails.php?id=26								
+Splendid Isolation	George Gaylord Simpson	Richard Dawkins	http://www.thedailybeast.com/articles/2012/09/27/what-richard-dawkins-reads-jerry-coyne-helena-cronin-and-more.html								
+The Ant and the Peacock	Helena Cronin	Richard Dawkins	http://www.thedailybeast.com/articles/2012/09/27/what-richard-dawkins-reads-jerry-coyne-helena-cronin-and-more.html								
+Why Evolution Is True	Jerry Coyne	Richard Dawkins	http://www.thedailybeast.com/articles/2012/09/27/what-richard-dawkins-reads-jerry-coyne-helena-cronin-and-more.html								
+Narrow Roads of Gene Land	W.D. Hamilton	Richard Dawkins	http://www.thedailybeast.com/articles/2012/09/27/what-richard-dawkins-reads-jerry-coyne-helena-cronin-and-more.html								
+The New Jim Crow	Michelle Alexander	Cornel West	https://andrewcarley.com/2016/01/25/cornel-west-buchempfehlungen/								
+In Custody	Anita Desai	Salman Rushdie	https://christinarosendahl.wordpress.com/2012/06/30/book-recommendations-from-salman-rushdie/								
+The General Theory of Employment, Interest and Money	JM Keynes	Paul Krugman	https://mostlyeconomics.wordpress.com/2011/07/21/krugmans-reading-list/								
+The Diamond in Your Pocket	Gangaji	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/								
+A Course in Miracles	Helen Schucman	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/								
+365 Nirvana Here And Now	Josh Baran	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/								
+Be As You Are	Sri Ramana Maharshi	Eckhart Tolle	https://www.eckharttolle.com/recommended-reading/								
+Mathematics	A. D. Aleksandrov	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Sunday Philosophy Club	Alexander McCall Smith	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Dream of Reason	Anthony Gottlieb	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Probability, Random Variables, and Stochastic Processes	Athanasios Papoulis	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Paradox of Choice	Barry Schwartz	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The (Mis)behavior of Markets	Benoit Mandelbrot	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Confessions of a Philosopher	Bryan Magee	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Making of a Philosopher	Colin McGinn	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Statistical Models	David Freeman	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Critical Phenomena 	Didier Sornette	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Why Stock Markets Crash	Didier Sornette	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Wisdom Paradox	Elkhonon Goldberg	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Good Calories, Bad Calories	Gary Taubes	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Discovery of France	Graham Robb	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Intellectuals in the Middle Ages	Jacques Le Goff	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Science of Conjecture	James Franklin	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Financial Derivatives	Jamil Baz	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Mind Doesn't Work That Way	Jerry Fodor	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+I Think Therefore I Laugh	John Allen Paulos	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Hour Between Dog & Wolf	John Coates	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Straw Dogs	John Gray	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Body by Science	John Little	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Thinking and Deciding	Jonathan Baron	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Status Syndrome	Michael Marmot	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+No Bull	Michael Steinhardt	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Modern Aramaic-English/English-Modern Aramaic Dictionary & Phrasebook: Assyrian/Syriac	Nicholas Awde	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+A History of the Mind	Nicholas Humphrey	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+How Nature Works: The Science of Self-Organized Criticality	Per Bak	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+A Few Lessons from Sherlock Holmes	Peter Bevelin	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+A Guide to Econometrics	Peter Kennedy	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Mapping the Mind	Rita Carter	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Why Everyone (Else) Is a Hypocrite	Robert Kurzban	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+The Blank Slate	Steven Pinker	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Mean Genes	Terry Burnham	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Kant and the Platypus	Umberto Eco	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Tyranny of Experts	William Easterly	Nassim Taleb	https://www.farnamstreetblog.com/2012/02/book-recommendations-from-nassim-taleb/								
+Nights at the Circus	Angela Carter	Salman Rushdie	https://www.goodreads.com/interviews/show/1057.Salman_Rushdie								
+Ulysses	James Joyce	Salman Rushdie	https://www.goodreads.com/interviews/show/1057.Salman_Rushdie								
+The Strange Case of Dr. Jekyll and Mr. Hyde	Robert Louis Stevenson	Salman Rushdie	https://www.goodreads.com/interviews/show/1057.Salman_Rushdie								
+Beowulf	Seamus Heaney	Salman Rushdie	https://www.goodreads.com/interviews/show/1057.Salman_Rushdie								
+Finite and Infinite Games	James Carse	Seth Godin	https://www.goodreads.com/interviews/show/833.Seth_Godin								
+The Republic of Tea	Mel Ziegler	Seth Godin	https://www.goodreads.com/interviews/show/833.Seth_Godin								
+Do the Work	Steve Pressfield	Seth Godin	https://www.goodreads.com/interviews/show/833.Seth_Godin								
+See You at the Top	Zig Ziglar	Seth Godin	https://www.goodreads.com/interviews/show/833.Seth_Godin								
+Don't Sleep, There Are Snakes	Daniel L. Everett	Jared Diamond	https://www.goodreads.com/interviews/show/835.Jared_Diamond								
+We, the Navigators	David Lewis	Jared Diamond	https://www.goodreads.com/interviews/show/835.Jared_Diamond								
+The Demon-Haunted World: Science as a Candle in the Dark	Carl Sagan	Richard Dawkins	https://www.goodreads.com/interviews/show/891.Richard_Dawkins								
+Tubes: A Journey to the Center of the Internet	Andrew Blum	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Makers: The New Industrial Revolution	Chris Anderson	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Automate This: How Algorithms Came to Rule Our World	Christopher Steiner	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Better, Stronger, Faster: The Myth of American Decline…and the Growth of a New Economy	Daniel Gross	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Fast Future: How the Millennial Generation is Shaping the World	David Burstein	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Social Business By Design: Transformative Social Media Strategies for the Connected Company	Dion Hinchcliffe	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Present Shock: When Everything Happens Now	Douglas Rushkoff	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Nanotechnology for Dummies	Earl Boysen	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Robot Futures	Ellah Reza Bourbakhsh	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses	Eric Ries	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die	Eric Siegel	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Rewire: Digital Cosmopolitans in the Age of Connection	Ethan Zuckerman	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Wait: The Art and Science of Delay	Frank Partnoy	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Knowledge and Power: The Information Theory of Capitalism and How it is Revolutionizing Our World	George Gilder	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Open Services Innovation: Rethinking Your Business to Grow and Compete in a New Era	Henry Chesbrough	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Reality is Broken: Why Games Make Us Better and How They Can Change the World	Jane McGonigal	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+You Are Not a Gadget: A Manifesto	Jaron Lanier	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Conscious Capitalism: Liberating the Heroic Spirit of Business	John Mackey	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+For the Win: How Game Thinking Can Revolutionize Your Business	Kevin Werbach	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+The Shareholder Value Myth: How Putting Shareholders First Harms Investors, Corporations, and the Public	Lynn Stout	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+What You Can Change…And What You Can’t: The Complete Guide to Successful Self Improvement	Martin Seligman	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+The Future Arrived Yesterday: The Rise of the Protean Corporation and What It Means for You	Michael Malone	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Antifragile: Things That Gain from Disorder	Nassim Nicholas Taleb	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Fooled by Randomness: The Hidden Role of Change in Life and in the Markets	Nassim Nicholas Taleb	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Addiction by Design: Machine Gambling in Las Vegas	Natasha Dow Schull	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+The Signal and the Noise: Why So Many Predictions Fail	Nate Silver	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Fab: The Coming Revolution on Your Desktop	Neil Gershenfeld	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Wired for War: The Robotics Revolution and Conflict in the Twenty-first Century	P.W. Singer	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+The Org: The Underlying Logic of the Office	Ray Fisman	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+How to Create a Mind: The Secret of Human Thought Revealed	Ray Kurzweil	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Cyber War: The Next Threat to National Security and What to Do About It	Richard A. Clarke	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+The Rise of the Creative Class	Richard Florida	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Everything Bad is Good For You: How Today’s Popular Culture is Actually Making Us Smarter	Steven Johnson	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Quiet: The Power of Introverts in a World That Can’t Stop Talking	Susan Cain	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Extra Lives: Why Video Games Matter	Tom Bissell	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+The Power of Co-Creation: Build it With Them to Boost Growth, Productivity, and Profits	Venkat Ramaswamy	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Big Data	Viktor Mayer-Schonberger	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Employees First, Customers Second: Turning Conventional Management Upside Down	Vineet Nayar	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Lords of Strategy: The Secret History of the New Corporate World	Walter Kiechel	Tom Peters	https://www.innovationleader.com/tom-peters-2014-reading-list-for-revolutionaries/								
+Beyond the Hoax	Alan Sokal	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Fashionable Nonsense	Alan Sokal	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Don't Mourn, Balkanize!	Andrej Grubacic	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+The Verso Book of Dissent	Andrew Hsiao	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Workers' Councils	Anton Pannekoek	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Field Notes on Democracy	Arundhati Roy	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Understanding Capitalism	Douglas Dowd	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+State Terrorism and the United States	Frederick Gareau	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+The Punishment of Gaza	Gideon Levy	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Bad Samaritans	Ha-Joon Chang	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+A People's History of the United States	Howard Zinn	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Al-Qaeda	Jason Burke	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+A Theory of Power	Jeff Vail	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+The Deaths of Others	John Tirman	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+How America Gets Away with Murder	Michael Mandel	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Business as Usual	Paul Mattick	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+The ABCs of Political Economy	Robin Hahnel	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Bakunin on Anarchism	Sam Dolgoff	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+The Anarchist Collectives	Sam Dolgoff	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Talking to the Enemy	Scott Atran	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+The Birth of Israel	Simha Flapan	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Whose Crisis? Whose Future?	Susan George	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+The Altenberg 16	Susan Mazur	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Between the Lines	Tikva Honig-Parnass	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+Killing Hope	William Blum	Noam Chomsky	https://www.reddit.com/r/chomsky/comments/iey08/books_recommendedpositively_reviewed_by_chomsky								
+The Doors of Perception and Heaven and Hell	Aldous Huxley	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Perennial Philosophy	Aldous Huxley	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Self-Deception Unmasked	Alfred Mele	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Infidel	Ayaan Hirsi Ali	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Nomad	Ayaan Hirsi Ali	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Caged Virgin	Ayaan Hirsi Ali	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Skeptic Way	Benson Mates	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Crisis of Islam	Bernard Lewis	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Mindfulness in Plain English	Bhante Henepola Gunaratana	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Cleanest Race	BR Myers	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Fabric of the Cosmos: Space, Time, and the Texture of Reality	Brian Greene	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Fundamentals of Human Neuropsychology	Bryan Kolb	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Extraordinary Popular Delusions and the Madness of Crowds	Charles Mackay	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Commissurotomy, Consciousness, and Unity of Mind	Charles Marks	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Aquariums of Pyongyang	Chol-hwan Kang	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Hitch-22	Christopher Hitchens	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Letters to a Young Contrarian	Christopher Hitchens	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Enemy	Christopher Hitchens	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Why Orwell Matters	Christopher Hitchens	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Mysterious Flame	Colin McGinn	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+10% Happier	Dan Harris	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Hitler's Willing Executioners	Daniel Jonah Goldhagen	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Judgment Under Uncertainty	Daniel Kahneman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Dialogues Concerning Natural Religion	David Hume	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Animal Minds	Donald Griffin	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Mind's I	Douglas Hofstadter	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+This Republic of Suffering	Drew Gilpin Faust	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Executive Brain	Elkhonon Goldberg	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Principles of Neural Science	Eric Kandel	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Behavior in Public Places	Erving Goffman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Presentation of Self in Everyday Life	Erving Goffman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+A Delusion of Satan	Frances Hill	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The End of Days	Gershom Gorenberg	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+An Anatomy of Thought	Ian Glynn	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Critique of Pure Reason 	Immanuel Kant	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Kant: Ethical Philosophy: Grounding for the Metaphysics of Morals, and, Metaphysical Principles of Virtue, with, "On a Supposed Right to Lie Because of Philanthropic Concerns"	Immanuel Kant	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Isaac Newton	James Gleick	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Mysterious Universe	James Jeans	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Examined Lives	James Miller	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+You Are Not a Gadget: A Manifesto	Jaron Lanier	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Awakening of Intelligence	Jiddu Krishnamurti	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Erwin Schrodinger and the Quantum Revolution 	John Gribbin	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Game Change	John Heilemann	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Three Cups of Deficit	Jon Krakauer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Under the Banner of Heaven	Jon Krakauer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Humanity	Jonathan Glover	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Experience of Insight	Joseph Goldstein	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Synaptic Self	Joseph LeDoux	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Utilitarianism	JS Mill	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Cambridge Handbook of Thinking and Reasoning	Keith Holyoak	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Suicide of Reason	Lee Harris	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Dark Ages	Lee McIntyre	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Drunkard's Walk	Leonard Mlodinow	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Evilicious	Marc Hauser	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Moral Minds	Marc Hauser	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Mirroring People	Marco Iacoboni	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Primacy of Perception	Maurice Merleau-Ponty	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Kingdom Coming	Michelle Goldberg	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Neuroethics	Neil Levy	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+A History of the Mind	Nicholas Humphrey	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Higher Superstition	Paul Gross	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+History of Christianity	Paul Johnson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Symposium	Plato	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Porphyry's Against the Christians	Porphyry	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Drowned and the Saved	Primo Levi	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Periodic Table	Primo Levi	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Age of Spiritual Machines	Ray Kurzweil	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Bertrand Russell	Ray Monk	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Ludwig Wittgenstein	Ray Monk	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Oxford Companion to the Mind	Richard L. Gregory	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Without Conscience	Robert D. Hare	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Brighter than a Thousand Suns	Robert Jungk	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Ends of the Earth	Robert Kaplan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+I of the Vortex	Rodolfo R. Llinas	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Ethics for the Real World	Ronald Howard	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+A Companion to the Philosphy of the Mind	Samuel Guttenplan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Clash of Civilizations	Samuel Huntington	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+WAR	Sebastian Junger	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Seven Pillars of Wisdom	TE Lawrence	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Food of the Gods	Terence McKenna	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+True Hallucinations	Terence McKenna	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Perfect Soldiers	Terry McDermott	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Leviathan	Thomas Hobbes	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Structure of Scientific Revolutions	Thomas Kuhn	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Being No One	Thomas Metzinger	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Neural Correlates of Consciousness	Thomas Metzinger	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Other Minds	Thomas Nagel	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Last Word	Thomas Nagel	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+King James Study Bible	Thomas Nelson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+What's God Got to Do with It?	Tim Page	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Central Philosophy of Buddhism	TRV Murti	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Among the Believers	VS Naipaul	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Portable Nietzsche	Walter Kaufmann	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Eye for an Eye	William Ian Miller	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Faking It	William Ian Miller	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Humiliation	William Ian Miller	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Anatomy of Disgust	William Ian Miller	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+Essays in Radical Empiricism 	William James	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Principles of Psychology	William James	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Quotable Hitchens	Windsor Mann	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P144								
+The Theory of Moral Sentiments 	Adam Smith	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Gulag Archipelago	Aleksandr I. Solzhenitsyn	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Jesus: A Life	AN Wilson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Paul	AN Wilson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Noonday Demon	Andrew Solomon	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Road to Martyrs' Square	Anne Marie Oliver	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Paradox of Choice	Barry Schwartz	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Significance of Philosophical Scepticism	Barry Stroud	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Ethics	Baruch Spinoza	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Autobiography	Bertrand Russell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Religion and Science	Bertrand Russell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Problems of Philosophy	Bertrand Russell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Why I Am Not a Christian and Other Essays on Religion and Related Subjects	Bertrand Russell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Zen at War	Brian Victoria	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Demon-Haunted World: Science as a Candle in the Dark	Carl Sagan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Encyclopedia of Psychoactive Plants	Christian Ratsch	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Memory, Brain, and Belief	Daniel Schacter	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Nature of Mind	David Rosenthal	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Abandonment of the Jews	David S. Wyman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+My View of the World	Erwin Schrodinger	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+What Is Life?	Erwin Schrodinger	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Future of Freedom	Fareed Zakaria	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Philosophical Dictionary	Francois Voltaire	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+When the Air Hits Your Brain	Frank T. Vertosick Jr.	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Free Will	Gary Watson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Persons And Places	George Santayana	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Scepticism And Animal Faith	George Santayana	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Atheism	George Smith	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Religion of Jesus the Jew	Geza Vermes	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Why I Am Not a Muslim	Ibn Warraq	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Illustrated Jesus Through the Centuries	Jaroslav Pelikan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Storming Heaven: LSD and the American Dream	Jay Stevens	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Being and Nothingness	Jean-Paul Sartre	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+My Stroke of Insight	Jill Bolte Taylor	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Self-Liberation through Seeing with Naked Awareness	John Myrdhin Reynolds	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Knowledge, Possibility, and Consciousness	John Perry	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+A Theory of Justice	John Rawls	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Justice as Fairness	John Rawls	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Construction of Social Reality 	John Searle	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Rediscovery of the Mind	John Searle	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Psychopath Test	Jon Ronson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Passage to Juneau	Jonathan Raban	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Fate of the Earth and The Abolition 	Jonathan Schell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Unfinished Twentieth Century	Jonathan Schell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+On Liberty	JS Mill	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Open Society and Its Enemies, Vol. 1	Karl Popper	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+American Theocracy	Kevin Phillips	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Breath by Breath	Larry Rosenberg	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Righteous	Lauren Sandler	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Going Clear	Lawrence Wright	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Challenging Nature	Lee Silver	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Three Roads To Quantum Gravity	Lee Smolin	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Six Impossible Things Before Breakfast	Lewis Wolpert	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+On Certainty	Ludwig Wittgenstein	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Philosophical Grammar	Ludwig Wittgenstein	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Tractatus Logico-Philosophicus	Ludwig Wittgenstein	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Islam in the World	Malise Ruthven	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Letters From The Earth	Mark Twain	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+What Is Man? And Other Essays	Mark Twain	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Our Final Hour	Martin Rees	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Genome	Matt Ridley	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Where Is Science Going? 	Max Planck	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Our Mathematical Universe	Max Tegmark	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Economy and Society	Max Weber	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Why Darwin Matters	Michael Shermer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Anatomy of Evil	Michael Stone	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Swami Prabhavananda	Niall Shanks	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Heart of Buddhist Meditation	Nyanaponika Thera	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+An Anthropologist on Mars	Oliver Sacks	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Man Who Mistook His Wife For A Hat	Oliver Sacks	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Life You Can Save	Peter Singer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Writings on an Ethical Life	Peter Singer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Living High and Letting Die	Peter Unger	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Nonsense of Free Will	R. T. Oerton	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Consequences Of Pragmatism	Richard Rorty	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Anarchy, State, and Utopia	Robert Nozick	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Natural Selection and Social Theory	Robert Trivers	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Shadows of the Mind	Roger Penrose	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Emperor's New Mind	Roger Penrose	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Large, the Small and the Human Mind	Roger Penrose	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Joseph Anton: A Memoir	Salman Rushdie	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+How We Die	Sherwin B. Nuland	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Professor and the Madman	Simon Winchester	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+How the Mind Works	Steven Pinker	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Blank Slate	Steven Pinker	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The Art Of War	Sun Tzu	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Shankara's Crest Jewel of Discrimination	Swami Prabhavananda	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+The User Illusion	Tor Norretranders	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Quintessential Dzogchen	Tulku Urgyen Rinpoche	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Phantoms in the Brain	V. S. Ramachandran	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+God: The Failed Hypothesis	Victor Stenger	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Open Secret	Wei Wei Wu Wei	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Labyrinths of Reason	William Poundstone	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Prisoner's Dilemma	William Poundstone	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Companion to Clinical Neurology	William Pryse-Phillips	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Darkness Visible	William Styron	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Faith at War	Yaroslav Trofimov	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Eurabia	Ye'or Bat	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations/P288								
+Food for the Heart	Ajahn Chah	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Blasphemy: How the Religious Right is Hijacking	Alan Dershowitz	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Ideas and Opinions	Albert Einstein	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Out of My Later Years	Albert Einstein	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Day of the Barbarians	Alessandro Barbero	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Legacy of Jihad	Andrew Bostom	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Descartes Error	Antonio Damasio	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Looking for Spinoza	Antonio Damasio	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Nature of the Physical World	AS Eddington	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Ending Aging	Aubrey de Grey	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Misquoting Jesus: The Story Behind Who Changed the Bible and Why	Bart Ehrman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Among the Thugs	Bill Buford	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Influence: The Psychology of Persuasion	Bob Cialdini	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+While Europe Slept	Bruce Bawer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Tracing Back the Radiance: Chinul’s Korean Way of Zen	Chinul	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Oxford Companion to the Body	Colin Blakemore	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Predictably Irrational: The Hidden Forces that Shape Our Decisions	Dan Ariely	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Breaking the Spell	Daniel Dennett	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Darwin’s Dangerous Idea: Evolution and the Meanings of Life	Daniel Dennett	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Freedom Evolves	Daniel Dennett	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Intentional Stance	Daniel Dennett	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Stumbling on Happiness	Daniel Gilbert	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Voodoo Histories	David Aaronovitch	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The End of Illness	David Agus	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Conscious Mind: In Search of a Fundamental Theory	DJ Chalmers	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The History of the Decline and Fall of the Roman Empire	Edward Gibbon	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Crowds and Power	Elias Canetti	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Suicide	Emile Durkheim	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Second Machine Age	Erik Brynjolfsson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Denial of Death	Ernest Becker	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Cities on a Hill	F. Scott Fitzgerald	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Imagined Worlds	Freeman Dyson	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Stripping the Gurus	Geoffrey Falk	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Breakdown of Will	George Ainslie	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+A Universe Of Consciousness How Matter Becomes Imagination	Gerald Edelman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Second Nature: Brain Science and Human Knowledge	Gerald Edelman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Eichmann in Jerusalem	Hannah Arendt	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Omens of Millennium	Harold Bloom	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Book of J	Harold Bloom	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+My Lunches with Orson	Henry Jaglom	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Mental and the Physical: The Essay and a Postscript	Herbert Feigl	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Self-Deception	Herbert Fingarette	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Without Sanctuary	James Allen	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Life of Samuel Johnson	James Boswell	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Honor	James Bowman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Psychopath Inside	James Fallon	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Golden Bough	James Frazer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Collapse: How Societies Choose to Fail or Succeed	Jared Diamond	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Diving Bell and the Butterfly	Jean-Dominique Bauby	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Why Evolution Is True	Jerry Coyne	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Destructive Power of Religion	JH Ellens	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Slouching Toward Bethlehem	Joan Didion	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Year of Magical Thinking	Joan Didion	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Thinking and Deciding	Jonathan Baron	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Flight of the Garuda	Keith Dowman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Nature of Explanation	KJW Craik	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Experiments in Ethics	Kwame Anthony Appiah	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Gandhi An Autobiography: The Story of My Experiments With Truth	Mahatma Gandhi	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Holocaust: A History of the Jews of Europe During the Second World War	Martin Gilbert	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Daily Rituals: How Artists Work	Mason Currey	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Ethical Brain	Michael Gazzaniga	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Who’s In Charge? Free Will and the Science of the Brain	Michael Gazzaniga	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Discipline & Punish: The Birth of the Prison	Michel Foucault	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Nature of Consciousness	Ned Block	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Koran	NJ Dawood	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Europe: A History	Norman Davies	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Kingdom of Auschwitz: 1940-1945	Otto Freidrich	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Really Hard Problem: Meaning in a Material World	Owen Flanagan	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Religion Explained	Pascal Boyer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Terror and Liberalism	Paul Berman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Just Babies	Paul Bloom	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+When Time Shall Be No More	Paul Boyer	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Into the Silent Land	Paul Broks	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind	Paul Churchland	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Scientific Realism and the Plasticity of Mind	Paul Churchland	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Engine of Reason	Paul Churchland	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+A Devil’s Chaplain	Richard Dawkins	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Climbing Mount Improbable	Richard Dawkins	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The God Delusion	Richard Dawkins	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Selfish Gene	Richard Dawkins	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Six Not-So-Easy Pieces	Richard Feynman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Character of Physical Law	Richard Feynman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Feynman Lectures on Physics: The Definitive and Extended Edition	Richard Feynman	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Mapping the Mind	Rita Carter	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+On Being Certain	Robert Burton	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Anatomy of Melancholy	Robert Burton	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Patterns of Culture	Ruth Benedict	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Future of an Illusion	Sigmund Freud	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Mind-Blindness	Simon Baron Cohen	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Science of Evil	Simon Baron Cohen	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Book of Dead Philosophers	Simon Critchley	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Lying	Sissela Bok	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Sleep Thieves	Stanley Coren	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Buddhism without Beliefs	Stephen Batchelor	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Conversations on Consciousness	Susan Blackmore	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Heart of Awareness: A Translation of the Ashtavakra Gita	Thomas Byrom	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Altered Egos: How the Brain Creates the Self	Todd Feinberg	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+In Cold Blood	Truman Capote	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Average Is Over	Tyler Cowen	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+Self-Contradictions of the Bible	William Burr	Sam Harris	https://www.samharris.org/book_store/all_sams_recommendations#all								
+The Crisis of Capitalist Democracy	Richard Posner	Lawrence Lessig	https://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim/recommendations								
+The Descent of Man	Charles Darwin	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy								
+Final Exit	Derek Humphrey	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy								
+The Methods of Ethics	Henry Sidgwick	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy								
+Pride & Prejudice	Jane Austen	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy								
+In the Shadow of Man	Jane Goodall	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy								
+Humanity	Jonathan Glover	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy								
+On Liberty	JS Mill	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy								
+Silent Spring	Rachel Carson	Peter Singer	https://www.theguardian.com/books/2001/apr/06/bestbooks.philosophy								
+How Much Is Enough?	Robert Skidelsky	John Gray	https://www.theguardian.com/books/2012/nov/23/books-of-the-year-2012-authors-favourites								
+Electric Light	Seamus Heaney	Bono	https://www.theguardian.com/books/2013/sep/01/bono-seamus-heaney-tribute-poetry								
+The Inflationary Universe: The Quest for a New Theory of Cosmic Origins	Alan Guth	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader								
+Philosophical Letters	Francois Voltaire	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader								
+The Birth and Death of the Sun	George Gamow	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader								
+The Mysterious Universe	James Jeans	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader								
+Warped Passages	Lisa Randall	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader								
+The Selfish Gene	Richard Dawkins	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader								
+The Character of Physical Law	Richard Feynman	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader								
+On a Piece of Chalk	Thomas Huxley	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader								
+The Whole Shebang	Timothy Ferris	Steven Weinberg	https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader								
